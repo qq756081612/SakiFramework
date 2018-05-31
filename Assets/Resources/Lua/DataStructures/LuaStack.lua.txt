@@ -1,0 +1,60 @@
+--栈
+LuaStack = {}
+
+function LuaStack:New(o)
+    o = o or {}
+    setmetatable(o, self)
+    self.__index = self
+    self:Init()
+    return o
+end
+
+function LuaStack:Init()
+    self.dataList = {}
+    self.index = 0
+end
+
+function LuaStack:Push(v)
+    self.index = self.index + 1
+    self.dataList[self.index] = v
+end
+
+function LuaStack:Pop()
+    if self.index <= 0 then
+        Debug.LogError("LuaStack:Pop Error : Stack is nil")
+        return
+    end
+    local value = self.dataList[self.index]
+    self.dataList[self.index] = nil
+    self.index = self.index - 1
+    return value
+end
+
+function LuaStack:Peek()
+    if self.index <= 0 then
+        Debug.LogError("LuaStack:Peek Error : Stack is nil")
+        return
+    end
+    return self.dataList[self.index]
+end
+
+function LuaStack:Clear()
+    self.dataList = {}
+    self.index = 0
+end
+
+function LuaStack:Contains(value)
+    for i = 1,#self.dataList do
+        if self.dataList[i] == value then
+            return true
+        end
+    end
+
+    return false
+end
+
+function LuaStack:Count()
+    return self.index
+end
+
+return LuaStack

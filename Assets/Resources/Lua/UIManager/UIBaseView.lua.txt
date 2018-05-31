@@ -1,0 +1,31 @@
+UIBaseView = {}
+
+function UIBaseView:New(o)
+    o = o or nil
+    setmetatable(o, self)
+    self.__index = self
+    return o
+end
+
+function UIBaseView:Init()
+    self.view = nil
+
+    self.isDestoryAuto = true
+    self.isDestoryOnChangeScene = true
+end
+
+--被UIManager调用
+function UIBaseView:LoadView(isShowOnLoaded)
+    self.view = "GameObject"
+
+end
+
+function UIBaseView:ShowView()
+    self.view:SetActive(true)
+end
+
+function UIBaseView:HideView()
+    self.view:SetActive(false)
+end
+
+return UIBaseView

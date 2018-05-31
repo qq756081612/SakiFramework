@@ -1,0 +1,86 @@
+UIBaseItem = {}
+
+local Debug = CS.UnityEngine.Debug
+
+function UIBaseItem:New(o)
+    o = o or {}
+    setmetatable(o, self)
+    self.__index = self
+    return o
+end
+
+function UIBaseItem:Init(gameObject,path,baseView)
+    self.path = path or nil
+    self.parent = gameObject or nil
+    self.baseView = baseView or nil
+    self.view = nil
+
+    if gameObject == nil then
+        Debug.LogError("gameObject can not be nil",self)
+    end
+
+    if self.baseView == nil then
+        Debug.LogError("baseView can not be nil",self)
+    else
+        --self.baseView:AddUIItem(self)
+    end
+
+    --如果路径为空 则表示传入的游戏物体就是UIItem的游戏物体
+    --不为空 传入的游戏物体则是UIItem的父物体 则将通过路径将UIItem的Prefab加载到gameObject下
+    if path == nil then
+        self.view = gameObject
+        self:Initialize()
+    else
+        self:LoadUIItem()
+    end
+end
+
+function UIBaseItem:LoadUIItem()
+    --加载完毕后
+    self:UIBaseItem()
+end
+
+--内部周期函数
+function UIBaseItem:Start()
+    self:Initialize()
+end
+
+function UIBaseItem:ShowSelf()
+    self:OnShow()
+    self.view:SetActive(true)
+end
+
+function UIBaseItem:HideSelf()
+    self:OnHide()
+    self.view:SetActive(false)
+end
+
+function UIBaseItem:Destroy()
+    --baseView清空Item列表
+    self:UnInitlize()
+    self.path = nil
+    self.parent = nil
+    self.baseView = nil
+    self.view = nil
+end
+
+--供子类重写的
+function UIBaseItem:Initialize()
+
+end
+
+function UIBaseItem:OnShow()
+
+end
+
+function UIBaseItem:OnHide()
+
+end
+
+function UIBaseItem:UnInitlize()
+
+end
+
+--工具型函数
+
+return UIBaseItem

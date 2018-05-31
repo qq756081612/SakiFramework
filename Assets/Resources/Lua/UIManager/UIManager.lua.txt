@@ -1,0 +1,78 @@
+require("Lua/UIBaseView")
+
+local Debug = CS.UnityEngine.Debug
+
+UIManager = {}
+
+function UIManager:New(o)
+    o = o or {}
+    setmetatable(o, self)
+    self.__index = self
+    self:Init()
+    return o
+end
+
+function UIManager.GetInstance()
+    if UIManager.instance == nil then
+        UIManager.instance = UIManager:New()
+    end
+
+    return UIManager.instance
+end
+
+function UIManager:Init()
+    self.showViewDic = {}
+    self.hideViewDic = {}
+end
+
+--供外部调用的接口
+function UIManager:ShowUI(viewName)
+    if viewName == nil then
+        Debug.LogError("UIManager:ShowUI Error : viewName is nil")
+        return
+    end
+
+    local view = self.hideViewDic[viewName]
+    if view then
+        view:ShowView()
+        self.hideViewDic[viewName] = nil
+        self.showViewDic[viewName] = view
+    else
+        self:LoadView(viewName)
+    end
+end
+
+function UIManager:HideUI()
+
+end
+
+function UIManager:LoadUI(viewName,isShowOnLoaded)
+    if viewName == nil then
+        Debug.LogError("UIManager:LoadUI Error : viewName is nil")
+        return
+    end
+
+    isShowOnLoaded = isShowOnLoaded or true
+
+    local uiBaseView = _G[viewName]
+
+    if uiBaseView == nil then
+        Debug.LogError(string.format("UIManager:LoadUI Error : can not find UIBaseView : %s",viewName))
+        return
+    end
+
+    local view = uiBaseView:New()
+    if isLoadByResources then
+        view:LoadView()
+        if isShowOnLoaded then
+            view:ShowView()
+            view.showViewDic[viewName] = view
+        else
+            view.hideViewDic[viewName] = view
+        end
+    else
+        --AssetBundle另外处理
+    end
+end
+
+return UIManager

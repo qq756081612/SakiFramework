@@ -1,0 +1,37 @@
+require("Lua/UIManager/UIBaseItem")
+require("Lua/DataStructures/LuaStack")
+
+local GameObject = CS.UnityEngine.GameObject
+local Debug = CS.UnityEngine.Debug
+
+function Awake()
+    Debug.Log("666")
+end
+
+function Start()
+    --local o = UIBaseItem:New()
+    --o:Initialize()
+    --self:SetActive(false)
+    --GameObject.Find("ContentView"):SetActive(false)
+
+    local stack = LuaStack:New()
+    stack:Push(2)
+    stack:Push(3)
+    stack:Push(4)
+    Debug.Log(stack:Peek(4))
+    Debug.Log(stack:Pop())
+    Debug.Log(stack:Contains(3))
+    Debug.Log(stack:Pop())
+    Debug.Log(stack:Count())
+    stack:Clear()
+    Debug.Log(stack:Pop())
+end
+
+function Updata()
+
+end
+
+function OnDestroy()
+
+end
+
