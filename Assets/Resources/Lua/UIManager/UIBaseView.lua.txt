@@ -1,7 +1,13 @@
+require("Lua/UIManager/UIConfig")
+
 UIBaseView = {}
 
+local Resources = CS.UnityEngine.Resources
+local GameObject = CS.UnityEngine.GameObject
+local Debug = CS.UnityEngine.Debug
+
 function UIBaseView:New(o)
-    o = o or nil
+    o = o or {}
     setmetatable(o, self)
     self.__index = self
     return o
@@ -9,23 +15,53 @@ end
 
 function UIBaseView:Init()
     self.view = nil
+    self.viewName = nil
 
     self.isDestoryAuto = true
     self.isDestoryOnChangeScene = true
 end
 
 --被UIManager调用
-function UIBaseView:LoadView(isShowOnLoaded)
-    self.view = "GameObject"
-
+function UIBaseView:LoadView()
+    --self.view = GameObject.Instantiate(Resources.Load(UIConfig.ViewPath[self.viewName].prefabPath))
+    self:Initialize()
 end
 
 function UIBaseView:ShowView()
+    self:OnShow()
     self.view:SetActive(true)
 end
 
 function UIBaseView:HideView()
+    self:OnHide()
     self.view:SetActive(false)
+end
+
+function UIBaseView:Destroy()
+    Debug.LogErroe("UIBaseView:Destroy()")
+    self:UnInitialize()
+end
+
+--供子类重写
+
+--加载完成后调用
+function UIBaseView:Initialize()
+
+end
+
+--显示UI时调用
+function UIBaseView:OnShow()
+
+end
+
+--隐藏UI时调用
+function UIBaseView:OnHide()
+
+end
+
+--游戏物体销毁时调用
+function UIBaseView:UnInitialize()
+
 end
 
 return UIBaseView

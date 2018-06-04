@@ -1,0 +1,12 @@
+UIConfig = {}
+
+UIConfig.ViewPath =
+{
+    ["GameStartView"] =
+    {
+        ["scriptPath"] = "Lua/GameLogic/Start/GameStartView",
+        ["prefabPath"] = "UIPrefab/Start/GameStartView"
+    }
+}
+
+return UIConfig

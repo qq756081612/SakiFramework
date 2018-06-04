@@ -1,0 +1,36 @@
+require("Lua/UIManager/UIBaseView")
+
+local Debug = CS.UnityEngine.Debug
+
+GameStartView = UIBaseView:New()
+
+function GameStartView:Initialize()
+    self.startBtn = self.view.transform:Find("Bg/StartBtn"):GetComponent("Button")
+    self.closeBtn = self.view.transform:Find("Bg/CloseBtn"):GetComponent("Button")
+
+    self.startBtn.onClick:AddListener(self.OnStartBtnClick)
+    self.closeBtn.onClick:AddListener(function()
+        self:HideView()
+    end)
+end
+
+function GameStartView:OnStartBtnClick()
+    Debug.LogError("GameStart")
+end
+
+function GameStartView:OnShow()
+    Debug.LogError("OnShow")
+end
+
+function GameStartView:OnHide()
+    --self:UnInitialize()
+    Debug.LogError("OnHide")
+end
+
+function GameStartView:UnInitialize()
+    self.startBtn = nil
+    self.closeBtn = nil
+    Debug.LogError("UnInitialize")
+end
+
+return GameStartView

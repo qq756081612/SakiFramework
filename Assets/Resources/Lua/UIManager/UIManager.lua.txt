@@ -1,6 +1,9 @@
-require("Lua/UIBaseView")
+require("Lua/UIManager/UIBaseView")
+require("Lua/UIManager/UIConfig")
 
 local Debug = CS.UnityEngine.Debug
+local GameObject = CS.UnityEngine.GameObject
+local Resources = CS.UnityEngine.Resources
 
 UIManager = {}
 
@@ -20,9 +23,23 @@ function UIManager.GetInstance()
     return UIManager.instance
 end
 
+function UIManager:Dispose()
+    for view in pairs(self.showViewDic) do
+        view:Destroy()
+    end
+
+    for view in pairs(self.hideViewDic) do
+        view:Destroy()
+    end
+
+    self.showViewDic = nil
+    self.hideViewDic = nil
+end
+
 function UIManager:Init()
     self.showViewDic = {}
     self.hideViewDic = {}
+    self.uiRoot = GameObject.Find("Canvas/UIRoot")
 end
 
 --供外部调用的接口
@@ -38,12 +55,20 @@ function UIManager:ShowUI(viewName)
         self.hideViewDic[viewName] = nil
         self.showViewDic[viewName] = view
     else
-        self:LoadView(viewName)
+        self:LoadUI(viewName)
     end
 end
 
-function UIManager:HideUI()
+function UIManager:HideUI(viewName)
+    local view = self.showViewDic[viewName]
+    if view == nil then
+        Debug.LogError("UIManager:HideUI Error : view "..viewName.."is nil")
+        return
+    end
 
+    view:HideView()
+    self.showViewDic[viewName] = nil
+    self.hideViewDic[viewName] = view
 end
 
 function UIManager:LoadUI(viewName,isShowOnLoaded)
@@ -55,20 +80,28 @@ function UIManager:LoadUI(viewName,isShowOnLoaded)
     isShowOnLoaded = isShowOnLoaded or true
 
     local uiBaseView = _G[viewName]
-
     if uiBaseView == nil then
-        Debug.LogError(string.format("UIManager:LoadUI Error : can not find UIBaseView : %s",viewName))
-        return
+        require(UIConfig.ViewPath[viewName].scriptPath)
+        uiBaseView = _G[viewName]
+        if uiBaseView == nil then
+            Debug.LogError(string.format("UIManager:LoadUI Error : can not find UIBaseView : %s",viewName))
+            return
+        end
     end
 
-    local view = uiBaseView:New()
+    uiBaseView.viewName = viewName
+    --先暂时只做从Resources加载
+    local isLoadByResources = true
     if isLoadByResources then
-        view:LoadView()
+        uiBaseView.view = GameObject.Instantiate(Resources.Load(UIConfig.ViewPath[viewName].prefabPath))
+        uiBaseView.view.transform:SetParent(self.uiRoot.transform,false)
+        uiBaseView:LoadView()
+
         if isShowOnLoaded then
-            view:ShowView()
-            view.showViewDic[viewName] = view
+            uiBaseView:ShowView()
+            self.showViewDic[viewName] = uiBaseView
         else
-            view.hideViewDic[viewName] = view
+            self.hideViewDic[viewName] = uiBaseView
         end
     else
         --AssetBundle另外处理

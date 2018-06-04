@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using XLua;
+using UnityEngine.UI;
 
 public class ContentView : MonoBehaviour
 {
@@ -39,8 +40,6 @@ public class ContentView : MonoBehaviour
         {
             this.luaAwake();
         }
-
-        Stack<int> stack = new Stack<int>();
     }
 
 
