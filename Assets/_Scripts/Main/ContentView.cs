@@ -50,7 +50,8 @@ public class ContentView : MonoBehaviour
         {
             luaStart();
         }
-	}
+        ForTest();
+    }
 	
 	// Update is called once per frame
 	void Update ()
@@ -64,6 +65,8 @@ public class ContentView : MonoBehaviour
             luaEnv.Tick();
             LuaBehaviour.lastGCTime = Time.time;
         }
+
+        TimerManager.Instance.UpdateTimer(Time.deltaTime);
 	}
 
     void OnDestroy()
@@ -78,5 +81,14 @@ public class ContentView : MonoBehaviour
         luaUpdate = null;
         luaOnDestory = null;
         luaEnv.Dispose();
+    }
+
+    private void ForTest()
+    {
+        Debug.LogError("66球");
+        TimerManager.Instance.AddOnceTimer(3,false,() => 
+        {
+            Debug.LogError(luaEnv + "AddOnceTimer");
+        });
     }
 }

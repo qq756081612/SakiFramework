@@ -64,7 +64,7 @@ function UIBaseItem:Destroy()
     self.view = nil
 end
 
---供子类重写的
+--供子类重写的 由管理类控制调用时机 不做任何操作
 function UIBaseItem:Initialize()
 
 end

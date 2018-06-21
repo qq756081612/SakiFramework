@@ -12,23 +12,23 @@ public class Timer
     private bool isScale;     //是否不受时间缩放影响
     private Action timeHandler; //回调函数
 
-    public Timer(int count,float intervalTime,bool isUnScale,Action callBack)
+    public Timer(int count,float intervalTime,bool isScale,Action callBack)
     {
         this.count = count;
         this.intervalTime = intervalTime;
         this.leftTime = intervalTime;
         this.initTime = Time.realtimeSinceStartup;
-        this.isScale = isUnScale;
+        this.isScale = isScale;
         this.timeHandler = callBack;
     }
 
-    public void Init(int count, float intervalTime, bool isUnScale, Action callBack)
+    public void Init(int count, float intervalTime, bool isScale, Action callBack)
     {
         this.count = count;
         this.intervalTime = intervalTime;
         this.leftTime = intervalTime;
         this.initTime = Time.realtimeSinceStartup;
-        this.isScale = isUnScale;
+        this.isScale = isScale;
         this.timeHandler = callBack;
     }
 
@@ -78,6 +78,7 @@ public class Timer
             this.count -= 1;
             if (count > 0)
             {
+                this.leftTime = this.intervalTime;
                 return true;
             }
             else
@@ -87,13 +88,13 @@ public class Timer
         }
     }
 
-    public void Dispose()
-    {
-        this.count = 0;
-        this.intervalTime = 0;
-        this.leftTime = 0;
-        this.initTime = 0;
-        this.isScale = false;
-        this.timeHandler = null;
-    }
+    //public void Dispose()
+    //{
+    //    this.count = 0;
+    //    this.intervalTime = 0;
+    //    this.leftTime = 0;
+    //    this.initTime = 0;
+    //    this.isScale = false;
+    //    this.timeHandler = null;
+    //}
 }

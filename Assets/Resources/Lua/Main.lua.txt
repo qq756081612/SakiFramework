@@ -26,7 +26,7 @@ function Start()
     stack:Clear()
     Debug.Log(stack:Pop())
     --]]
-    UIManager.GetInstance():ShowUI("GameStartView")
+    --UIManager.GetInstance():ShowUI("GameStartView")
 end
 
 function Updata()
