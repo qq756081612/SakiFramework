@@ -85,10 +85,10 @@ public class ContentView : MonoBehaviour
 
     private void ForTest()
     {
-        Debug.LogError("66球");
-        TimerManager.Instance.AddOnceTimer(3,false,() => 
-        {
-            Debug.LogError(luaEnv + "AddOnceTimer");
-        });
+        //TimerManager.Instance.AddOnceTimer(3, false, () =>
+        //  {
+        //      Debug.LogError(luaEnv + "AddOnceTimer");
+        //  });
+        XMLTools.Test();
     }
 }

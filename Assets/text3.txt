@@ -1,0 +1,1971 @@
+﻿Chariot Dungeon
+Chariot Material
+Maple Field, Arduous Desert, Forgotten Land, Impasse Land, Dragon Cave, Norden City\n Every scene will refresh 11 [f8da34]Kungfu Dumpling[-]
+Accumulate Top-up $6
+Accumulate Top-up $7
+Accumulate Top-up $8
+Accumulate Top-up $9
+Accumulate Top-up $10
+Accumulate Top-up $11
+Accumulate Spend 100 Unbound Diamond
+Accumulate Spend 101 Unbound Diamond
+Accumulate Spend 102 Unbound Diamond
+Accumulate Spend 103 Unbound Diamond
+Accumulate Spend 104 Unbound Diamond
+Accumulate Spend 105 Unbound Diamond
+Reach 100 Activity
+Reach 101 Activity
+Reach 102 Activity
+Reach 103 Activity
+Reach 104 Activity
+Hunter Level reached Bronze 1-Star
+Hunter Level reached Bronze 6-Star
+Hunter Level reached Silver 3-Star
+Hunter Level reached Gold 1-Star
+Hunter Level reached Gold 5-Star
+Hunter Level reached Platinum 1-Star
+God Shelter (Awaken)
+Skill Upgrade:\nDuring Archangel's invincible mode, extra recover DEF HP increase to [6ecd8c]225%[-]
+Bloody Beast Master (Awaken)
+Skill Upgrade:\nWhen transforming into Beast Master, extra received DMG bonus increase to [6ecd8c]18%[-]
+Artemis Baptism (Awaken)
+Skill Upgrade:\nWhen transforming into Artemis, DEF HP recover for every sec increase to [6ecd8c]30%[-]
+Solid as Rock (Awaken)
+Skill Upgrade:\nWhen transforming into Colossus, DMG reduction received increase to [6ecd8c]24%[-]
+Ocean Halo (Awaken)
+Skill Upgrade: \nWhen transforming into Siren, self stats increase during attack increase to [6ecd8c]18%[-], while control duration reduce by [6ecd8c]10%[-]
+Reaper Befall (Awaken)
+Skill Upgrade: \nWhen transforming into Reaper, there's a chance to curse surrounding players, map HP deduction per sec for cursed players increase to [6ecd8c]3%[-], lasts [6ecd8c]5[-]sec
+Fatal Rebound (Awaken)
+Skill Upgrade: \nEvery damage that Lucifer received, rebound damage back to caster increase to [6ecd8c]21%[-]
+Wing·Force
+Wing·Chivalry
+Wing·AGI
+Wing·Wit
+Wing·Resolve
+Wing·TEN
+Wing·Physique
+Wing·Deft
+Force Blessing
+Activated Effect: \nWing ATK stats +2%\nWing HIT stats +10%
+Chivalry Blessing
+Activated Effect: \nWing HP stats +10%\nWing Anti-CRI stats +10%
+AGI Blessing
+Activated Effect: \nWing HP stats +10%\nWing EVA stats +10%
+Wit Blessing
+Activated Effect: \nWing HP stats +10%\nWing CRI stats +10%
+Resolve Blessing
+Activated Effect: \nWing DEF stats +5%\nWing Anti-CRI stats +10%
+TEN Blessing
+Activated Effect: \nWing HP stats +10%\nWing HIT stats +10%
+Physique Blessing
+Activated Effect: \nWing DEF stats +5%\nWing CRI stats +10%
+Deft Blessing
+Activated Effect: \nWing ATK stats +3%\nWing EVA stats +10%
+Land War State
+Buff: \nChariot HP increased [6ecd8c]25000[-]
+Buff: \nChariot DEF increased [6ecd8c]3000[-]
+Buff: \nChariot ATK increased [6ecd8c]3000[-]
+Chariot Shell
+Chariot Bearing
+Chariot Energy
+Chariot Eyepiece
+Chariot Crawler Belt
+Chariot Turbine
+Chariot Gearwheel
+Chariot Turret
+Chariot·Force
+Chariot·Chivalry
+Chariot·AGI
+Chariot·Wit
+Chariot·Resolve
+Chariot·Anti-CRI
+Chariot·Physique
+Chariot·Deft
+Activated Effect: \nChariot ATK stats +2%\nChariot HIT stats +10%
+Activated Effect: \nChariot HP stats +10%\nChariot Anti-CRI stats +10%
+Activated Effect: \nChariot HP stats +10%\nChariot EVA stats +10%
+Activated Effect: \nChariot HP stats +10%\nChariot CRI stats +10%
+Activated Effect: \nChariot DEF stats +5%\nChariot Anti-CRI stats +10%
+Activated Effect: \nChariot HP stats +10%\nChariot HIT stats +10%
+Activated Effect: \nChariot DEF stats +5%\nChariot EVA stats +10%
+Activated Effect: \nChariot ATK stats +3%\nChariot EVA stats +10%
+Used to confine player in bubble for 5s and snatch the lamb on player's head right away, CD 30s
+Nine-tailed fox fairy
+Buddha Mind
+During invincible mode, will restore extra 225% DEF of HP
+God Shelter (Awaken)
+Receive 18% of DMG buff for 15 sec
+Restore HP 30% of DEF every second, for 15 sec
+Receive 14% of DMG reduction for 15 sec
+Increase 18% of all stats, and the control duration is reduced 10% for 15 sec
+Player that is cursed will be deducted with 3% of max HP every second, for 5 sec
+Every damage received, will rebound 21% of the damage back to the caster for 15 sec
+Increase 22% ATK for 6 sec
+Increase 24% ATK for 6 sec
+Increase 26% ATK for 6 sec
+Obtain 24% of lifesteal for 5 sec
+Obtain from Oppo user login event
+Vivo Warrior
+Obtain from Vivo user login event
+Mi Warrior
+Obtain from Mi user login event
+Tencent Warrior
+Obtain from Tencent user login event
+9game Warrior
+Obtain from UC user login event
+Dark Supreme
+Platinum Supreme
+Gold Supreme
+[Leniuwan] Official Acc. CP No.1
+[Leniuwan] Official Acc. CP No.2
+[Leniuwan] Official Acc. CP No.3
+TT VIP
+1st top-up obtain
+TT Expert
+Level reached Lv. 65 can claim
+TT Active Star
+Continuously Login for 3 days to get
+Less than 120 diamonds
+120 diamonds
+300 diamonds
+900 diamonds
+1800 diamonds
+3000 diamonds
+6000 diamonds
+60 diamonds
+180 diamonds
+240 diamonds
+360 diamonds
+420 diamonds
+480 diamonds
+540 diamonds
+600 diamonds
+660 diamonds
+780 diamonds
+1200 diamonds
+1680 diamonds
+2400 diamonds
+2760 diamonds
+3600 diamonds
+4200 diamonds
+4800 diamonds
+5400 diamonds
+Top-up platform (Don't delete)
+Kill Pursuit
+Winter Abyss
+Find and help Colossus
+Defeat Evil Venus
+Clear stage in 250 sec
+Destroy 4 Orc Archer Tower
+Defeat BOSS Ox Chieftain
+Engrave(6): When using Dark Reap, extra increase 2% self ATK
+Engrave(8): When using Aftershock, deals 50% skill DMG per sec to players around, lasts 5sec
+1st player level reach Lv.900
+Whole server Grade 12 Forge Gear rate increase 12%
+2nd player level reach Lv.900
+Whole server Grade 12 Forge Gear rate increase 26%
+3rd player level reach Lv.900
+Whole server Grade 12 Forge Gear rate increase 40%
+Passion Melody
+Lv.20 3-star Giftpack
+Lv.25 3-star Giftpack
+Lv.35 3-star Giftpack
+Lv.105 3-star Giftpack
+Lv.110 3-star Giftpack
+Lv.115 3-star Giftpack
+Lv.120 3-star Giftpack
+Lv.70 3-star Giftpack (Old)
+Lv.72 3-star Giftpack (Old)
+Lv.72 3-star Giftpack (Old)
+Lv.77 3-star Giftpack (Old)
+Lv.80 3-star Giftpack (Old)
+Lv.85 3-star Giftpack (Old)
+Lv.90 3-star Giftpack (Old)
+Lv.95 3-star Giftpack (Old)
+Lv.100 3-star Giftpack (Old)
+Lv.20 3-star Giftpack (Elite)
+Lv.25 3-star Giftpack (Elite)
+Lv.30 3-star Giftpack (Elite)
+Lv.40 3-star Giftpack (Elite)
+Lv.45 3-star Giftpack (Elite)
+Lv.50 3-star Giftpack (Elite)
+Lv.55 5-star Giftpack (Elite)
+Lv.60 3-star Giftpack (Elite)
+Lv.65 3-star Giftpack (Elite)
+Lv.70 3-star Giftpack (Elite)
+Lv.75 3-star Giftpack (Elite)
+Lv.80 3-star Giftpack (Elite)
+Lv.85 3-star Giftpack (Elite)
+Lv.90 3-star Giftpack (Elite)
+Lv.95 3-star Giftpack (Elite)
+Lv.105 3-star Giftpack (Elite)
+Lv.110 3-star Giftpack (Elite)
+Lv.115 3-star Giftpack (Elite)
+Lv.120 3-star Giftpack (Elite)
+Lv.85 3-star Giftpack (Old)
+Lv.83 3-star Giftpack (Old)
+Lv.86 3-star Giftpack (Old)
+Lv.88 3-star Giftpack (Old)
+Lv.91 3-star Giftpack (Old)
+Lv.93 3-star Giftpack (Old)
+Lv.96 3-star Giftpack (Old)
+Lv.98 3-star Giftpack (Old)
+Team 3-star Giftpack (Lv.900)
+Team 3-star Giftpack (Lv.1000)
+Team 3-star Giftpack (Lv.1100)
+Celebrity costume Shard
+Celebrity Weapon Shard
+Celebrity Band Costume
+Celebrity Band Weapon
+Traditional Acc. Top-up Giftpack 1
+Traditional Acc. Top-up Giftpack 2
+Traditional Acc. Top-up Giftpack 3
+Traditional Acc. Top-up Giftpack 4
+Traditional Acc. Top-up Giftpack 5
+Traditional Acc. Top-up Giftpack 6
+Traditional Acc. Top-up Giftpack 7
+Traditional Acc. Top-up Giftpack 8
+Traditional Acc. Top-up Giftpack 9
+Traditional Acc. Top-up Giftpack 10
+Top-up Target 1
+Top-up Target 2
+Top-up Target 3
+Top-up Target 4
+Top-up Target 5
+Top-up Target 6
+Top-up Target 7
+Top-up Target 8
+Top-up Target 9
+Mount Target 1
+Mount Target 2
+Mount Target 3
+Mount Target 4
+Mount Target 5
+Mount Target 6
+Pet Target 1
+Pet Target 2
+Pet Target 3
+Pet Target 4
+Pet Target 5
+Pet Target 6
+Wing Target 1
+Wing Target 2
+Wing Target 3
+Wing Target 4
+Wing Target 5
+Wing Target 6
+Level Target 1
+Level Target 2
+Level Target 3
+Level Target 4
+Level Target 5
+Level Target 6
+CP Target 1
+CP Target 2
+CP Target 3
+CP Target 4
+CP Target 5
+CP Target 6
+Spend Target 1
+Spend Target 2
+Spend Target 3
+Spend Target 4
+Spend Target 5
+Spend Target 6
+WeChat Follower Giftpack
+Korea SVR Mobi Reserved Giftpack
+Korea SVR Onestore Reserved Giftpack
+Overlord Silver Card Level Gift
+Overlord Gold Card Level Gift
+Overlord Platinum Level Gift
+Overlord Black Card Level Gift
+Overlord Member Card Daily Benefits
+Overlord Silver Card Daily Benefits
+Overlord Gold Card Daily Benefits
+Overlord Platinum Daily Benefits
+Overlord Black Card Daily Benefits
+Overlord Gold Card Privilege
+Overlord Platinum Card Privilege
+Overlord Black Card Privilege
+Oppo Newbie Giftpack
+Oppo Elite Giftpack
+Oppo Honor Giftpack
+Oppo Supreme Pack
+Team Gold Compensation (11)
+Team Gold Compensation (12)
+Team Diamond Compensation (11)
+Team Diamond Compensation (12)
+Chariot Gold Compensation (1)
+Chariot Gold Compensation (2)
+Chariot Gold Compensation (3)
+Chariot Gold Compensation (4)
+Chariot Gold Compensation (5)
+Chariot Gold Compensation (6)
+Chariot Diamond Compensation (1)
+Chariot Diamond Compensation (2)
+Chariot Diamond Compensation (3)
+Chariot Diamond Compensation (4)
+Chariot Diamond Compensation (5)
+Chariot Diamond Compensation (6)
+Blue Chariot Gear
+Purple Chariot Gear
+Orange Chariot Gear
+Red Chariot Gear
+Pink Chariot Gear
+Celebrity Band
+Turn yourself into a splendor celebrity who shines on the stage! (Activated costume will convert into 50 shards)
+Pink Microphone
+Edge Guitar
+Neon Dual Blade
+Microphone Longbow
+Celebrity Band Shard
+Able to activate or advance Celebrity Band
+Pink Microphone Shard
+Use to activate or advance Pink Microphone
+Edge Guitar Shard
+Use to activate or advance Edge Guitar Costume
+Neon Dual Blade Shard
+Use to activate or advance Neon Dual Blade
+Microphone Longbow Shard
+Able to activate or advance Microphone Longbow
+Use to activate special wings -- Passion Melody \nIf activated, automatically convert into [6ecd8c]50[-] star-up item - [ebd764]Remodel Essence[-]
+Secret Conch
+Secret Conch that appears around sea area, material to complete quest of switch class II phase 3, tradable
+There is bound diamonds*200, Gold*200000, Inter. EXP Potion*2, Mount DEF Essence*1, Pet DEF Essence*1, Offline Botting Card*15 inside the giftpack
+Receive exclusive costume shard -- Celebrity Band
+Receive exclusive costume weapon shard -- Celebrity Band
+Receive exclusive costume -- Celebrity Band
+Receive exclusive costume weapon -- Celebrity Band
+During New SVR Event period, acc. top-up $6 to receive
+During New SVR Event period, acc. top-up $30 to receive
+During New SVR Event period, acc. top-up $36 to receive
+During New SVR Event period, acc. top-up $98 to receive
+During New SVR Event period, acc. top-up $128 to receive
+During New SVR Event period, acc. top-up $198 to receive
+During New SVR Event period, acc. top-up $328 to receive
+During New SVR Event period, acc. top-up $648 to receive
+During New SVR Event period, acc. top-up $1200 to receive
+During New SVR Event period, advance mount to grade 3 to receive
+During New SVR Event period, advance mount to grade 3 2-star to receive
+During New SVR Event period, advance mount to grade 4 1-star to receive
+During New SVR Event period, advance mount to grade 5 to receive
+During New SVR Event period, advance mount to grade 6 to receive
+During New SVR Event period, advance mount to grade 7 to receive
+During New SVR Event period, advance pet to grade 3 2-star to receive
+During New SVR Event period, advance pet to grade 3 3-star to receive
+During New SVR Event period, advance pet to grade 4 2-star to receive
+During New SVR Event period, advance pet to grade 5 2-star to receive
+During New SVR Event period, advance pet to grade 6 2-star to receive
+During New SVR Event period, advance pet to grade 7 to receive
+During New SVR Event period, advance Wing to grade 3 1-star to receive
+During New SVR Event period, advance Wing to grade 4 to receive
+During New SVR Event period, advance Wing to grade 4 4-star to receive
+During New SVR Event period, advance Wing to grade 5 4-star to receive
+During New SVR Event period, advance Wing to grade 6 2-star to receive
+During New SVR Event period, advance Wing to grade 7 to receive
+During New SVR Event period, reach Lv.180 to receive
+During New SVR Event period, reach Lv.200 to receive
+During New SVR Event period, reach Lv.230 to receive
+During New SVR Event period, reach Lv.250 to receive
+During New SVR Event period, reach Lv.260 to receive
+During New SVR Event period, reach Lv.280 to receive
+During New SVR Event period, reach 2M to receive
+During New SVR Event period, reach 3M to receive
+During New SVR Event period, reach 5M to receive
+During New SVR Event period, reach 8M to receive
+During New SVR Event period, reach 12M to receive
+During New SVR Event period, reach 15M to receive
+During New SVR Event period, spend 100 diamonds to receive
+During New SVR Event period, spend 300 diamonds to receive
+During New SVR Event period, spend 980 diamonds to receive
+During New SVR Event period, spend 2000 diamonds to receive
+During New SVR Event period, spend 5000 diamonds to receive
+During New SVR Event period, spend 10000 diamonds to receive
+Top-up any amount during Close Beta to obtain
+Acc. Top-up $328 during Close Beta to obtain
+Acc. Top-up $1000 during Close Beta to obtain
+Acc. Top-up $3000 during Close Beta to obtain
+Acc. Top-up $10000 during Close Beta to obtain
+Dark Domain Oppo Newbie Giftpack
+Dark Domain Oppo Elite Giftpack
+Dark Domain Oppo Glory Giftpack
+Dark Domain Oppo Supreme Giftpack
+Open and randomly receive Blue Chariot Gear
+Open and randomly receive Purple Chariot Gear
+Open and randomly receive Orange Chariot Gear
+Open and randomly receive Red Chariot Gear
+Open and randomly receive Pink Chariot Gear
+Chariot Dungeon Free Redeem
+Chariot Dungeon Free Redeem Giftpack
+Chariot Dungeon Perfect Redeem
+Chariot Dungeon Perfect Redeem Giftpack
+Clear Lv.900 Team Dungeon with 3-star rating to receive
+Clear Lv.1000 Team Dungeon with 3-star rating to receive
+Clear Lv.1100 Team Dungeon with 3-star rating to receive
+Lucky Ring
+Roulette is now spinning, your luck depends on this pointer. \n[6ecd8c]This item can be used to spin draw in Lucky Spin event[-]
+"X" Stamp
+A stamp with "X" word, available for Xmas word collect event, use it to exchange lux. rewards
+"M" Stamp
+A stamp with "M" word, available for Xmas word collect event, use it to exchange lux. rewards
+"A" Stamp
+A stamp with "A" word, available for Xmas word collect event, use it to exchange lux. rewards
+"S" Stamp
+A stamp with "S" word, available for Xmas word collect event, use it to exchange lux. rewards
+A stamp with "?" word, available for New Year word collecting event, use it to exchange lux. rewards
+A stamp with "?" word, available for New Year word collecting event, use it to exchange lux. rewards
+A stamp with "?" word, available for New Year word collecting event, use it to exchange lux. rewards
+A stamp with "?" word, available for New Year word collecting event, use it to exchange lux. rewards
+A stamp with "?" word, available for word collecting event, use it to exchange lux. rewards
+A stamp with "?" word, available for word collecting event, use it to exchange lux. rewards
+A stamp with "?" word, available for word collecting event, use it to exchange lux. rewards
+A stamp with "?" word, available for word collecting event, use it to exchange lux. rewards
+$268 Top-up Card
+Use to join $268 Giftpack purchase event
+60 diamonds top-up card.Inner
+Use to top-up 60 guild diamonds
+300 diamonds top-up card.Inner
+Use to top-up 300 guild diamonds
+980 diamonds top-up card.Inner
+Use to top-up 980 guild diamonds
+1980 diamonds top-up card.Inner
+Use to top-up 1980 guild diamonds
+3280 diamonds top-up card.Inner
+Use to top-up 3280 guild diamonds
+6480 diamonds top-up card.Inner
+Use to top-up 6480 guild diamonds
+20000 diamonds top-up card.Inner
+Use to top-up 20000 guild diamonds
+2680 diamonds top-up card.Inner
+Use to top-up 2680 guild diamonds
+100 diamonds top-up card.Inner
+Use to top-up 100 guild diamonds
+1000 diamonds top-up card.Inner
+Use to top-up 1000 guild diamonds
+2000 diamonds top-up card.Inner
+Use to top-up 2000 guild diamonds
+250 diamonds top-up card.Inner
+Use to top-up 250 guild diamonds
+600 diamonds top-up card.Inner
+Use to top-up 600 guild diamonds
+1080 diamonds top-up card.Inner
+Use to top-up 1080 guild diamonds
+1680 diamonds top-up card.Inner
+Use to top-up 1680 guild diamonds
+2280 diamonds top-up card.Inner
+Use to top-up 2280 guild diamonds
+2480 diamonds top-up card.Inner
+Use to top-up 2480 guild diamonds
+3180 diamonds top-up card.Inner
+Use to top-up 3180 guild diamonds
+10 diamonds top-up card.Inner
+Use to top-up 10 guild diamonds
+30 diamonds top-up card.Inner
+Use to top-up 30 guild diamonds
+80 diamonds top-up card.Inner
+Use to top-up 80 guild diamonds
+120 diamonds top-up card.Inner
+Use to top-up 120 guild diamonds
+180 diamonds top-up card.Inner
+Use to top-up 180 guild diamonds
+280 diamonds top-up card.Inner
+Use to top-up 280 guild diamonds
+400 diamonds top-up card.Inner
+Use to top-up 400 guild diamonds
+450 diamonds top-up card.Inner
+Use to top-up 450 guild diamonds
+500 diamonds top-up card.Inner
+Use to top-up 500 guild diamonds
+680 diamonds top-up card.Inner
+Use to top-up 680 guild diamonds
+880 diamonds top-up card.Inner
+Use to top-up 880 guild diamonds
+1180 diamonds top-up card.Inner
+Use to top-up 1180 guild diamonds
+1280 diamonds top-up card.Inner
+Use to top-up 1280 guild diamonds
+1880 diamonds top-up card.Inner
+Use to top-up 1880 guild diamonds
+2880 diamonds top-up card.Inner
+Use to top-up 2880 guild diamonds
+4880 diamonds top-up card.Inner
+Use to top-up 4880 guild diamonds
+5180 diamonds top-up card.Inner
+Use to top-up 5180 guild diamonds
+60 diamonds top-up card.Global
+300 diamonds top-up card.Global
+980 diamonds top-up card.Global
+1980 diamonds top-up card.Global
+3280 diamonds top-up card.Global
+6480 diamonds top-up card.Global
+20000 diamonds top-up card.Global
+2680 diamonds top-up card.Global
+120 Diamond top-up card·Trad. Chinese
+120 Diamond Trad. Chinese top-up card: Non Taiwan area and ios
+300 Diamond top-up card·Trad. Chinese
+300 Diamond Trad. Chinese top-up card: Non Taiwan area and ios
+900 Diamond top-up card·Trad. Chinese
+900 Diamond Trad. Chinese top-up card: Non Taiwan area and ios
+1800 Diamond top-up card·Trad. Chinese
+1800 Diamond Trad. Chinese top-up card: Non Taiwan area and ios
+3000 Diamond top-up card·Trad. Chinese
+3000 Diamond Trad. Chinese top-up card: Non Taiwan area and ios
+6000 Diamond top-up card·Trad. Chinese
+6000 Diamond Trad. Chinese top-up card: Non Taiwan area and ios
+130 Diamond top-up card·Trad. Chinese
+130 Diamond Trad. Chinese top-up card: Taiwan Android
+320 Diamond top-up card·Trad. Chinese
+320 Diamond Trad. Chinese top-up card: Taiwan Android
+960 Diamond top-up card·Trad. Chinese
+960 Diamond Trad. Chinese top-up card: Taiwan Android
+1880 Diamond top-up card·Trad. Chinese
+1880 Diamond Trad. Chinese top-up card: Taiwan Android
+3140 Diamond top-up card·Trad. Chinese
+3140 Diamond Trad. Chinese top-up card: Taiwan Android
+6280 Diamond top-up card·Trad. Chinese
+6280 Diamond Trad. Chinese top-up card: Taiwan Android
+35 NTD Top-up card·Trad. Chinese
+Use to join 35 NTD Giftpack purchase event (Taiwan Android)
+95 NTD Top-up card·Trad. Chinese
+Use to join 95 NTD Giftpack purchase event (Taiwan Android)
+130 NTD Top-up card·Trad. Chinese
+Use to join 130 NTD Giftpack purchase event (Taiwan Android)
+190 NTD Top-up card·Trad. Chinese
+Use to join 190 NTD Giftpack purchase event (Taiwan Android)
+220 NTD Top-up card·Trad. Chinese
+Use to join 220 NTD Giftpack purchase event (Taiwan Android)
+250 NTD Top-up card·Trad. Chinese
+Use to join 250 NTD Giftpack purchase event (Taiwan Android)
+280 NTD Top-up card·Trad. Chinese
+Use to join 280 NTD Giftpack purchase event (Taiwan Android)
+320 NTD Top-up card·Trad. Chinese
+Use to join 320 NTD Giftpack purchase event (Taiwan Android)
+350 NTD Top-up card·Trad. Chinese
+Use to join 350 NTD Giftpack purchase event (Taiwan Android)
+420 NTD Top-up card·Trad. Chinese
+Use to join 420 NTD Giftpack purchase event (Taiwan Android)
+630 NTD Top-up card·Trad. Chinese
+Use to join 630 NTD Giftpack purchase event (Taiwan Android)
+880 NTD Top-up card·Trad. Chinese
+Use to join 880 NTD Giftpack purchase event (Taiwan Android)
+1250 NTD Top-up card·Trad. Chinese
+Use to join 1250 NTD Giftpack purchase event (Taiwan Android)
+1470 NTD Top-up card·Trad. Chinese
+Use to join 1470 NTD Giftpack purchase event (Taiwan Android)
+1880 NTD Top-up card·Trad. Chinese
+Use to join 1880 NTD Giftpack purchase event (Taiwan Android)
+2200 NTD Top-up card·Trad. Chinese
+Use to join 2200 NTD Giftpack purchase event (Taiwan Android)
+2510 NTD Top-up card·Trad. Chinese
+Use to join 2510 NTD Giftpack purchase event (Taiwan Android)
+2830 NTD Top-up card·Trad. Chinese
+Use to join 2830 NTD Giftpack purchase event (Taiwan Android)
+30 NTD Top-up card·Trad. Chinese
+Use to join 30 NTD Giftpack purchase event (Non Taiwan and IOS)
+90 NTD Top-up card·Trad. Chinese
+Use to join 90 NTD Giftpack purchase event (Non Taiwan and IOS)
+120 NTD Top-up card·Trad. Chinese
+Use to join 120 NTD Giftpack purchase event (Non Taiwan and IOS)
+180 NTD Top-up card·Trad. Chinese
+Use to join 180 NTD Giftpack purchase event (Non Taiwan and IOS)
+210 NTD Top-up card·Trad. Chinese
+Use to join 210 NTD Giftpack purchase event (Non Taiwan and IOS)
+240 NTD Top-up card·Trad. Chinese
+Use to join 240 NTD Giftpack purchase event (Non Taiwan and IOS)
+270 NTD Top-up card·Trad. Chinese
+Use to join 270 NTD Giftpack purchase event (Non Taiwan and IOS)
+300 NTD Top-up card·Trad. Chinese
+Use to join 300 NTD Giftpack purchase event (Non Taiwan and IOS)
+330 NTD Top-up card·Trad. Chinese
+Use to join 330 NTD Giftpack purchase event (Non Taiwan and IOS)
+390 NTD Top-up card·Trad. Chinese
+Use to join 390 NTD Giftpack purchase event (Non Taiwan and IOS)
+590 NTD Top-up card·Trad. Chinese
+Use to join 590 NTD Giftpack purchase event (Non Taiwan and IOS)
+840 NTD Top-up card·Trad. Chinese
+Use to join 840 NTD Giftpack purchase event (Non Taiwan and IOS)
+1190 NTD Top-up card·Trad. Chinese
+Use to join 1190 NTD Giftpack purchase event (Non Taiwan and IOS)
+1390 NTD Top-up card·Trad. Chinese
+Use to join 1390 NTD Giftpack purchase event (Non Taiwan and IOS)
+1790 NTD Top-up card·Trad. Chinese
+Use to join 1790 NTD Giftpack purchase event (Non Taiwan and IOS)
+2090 NTD Top-up card·Trad. Chinese
+Use to join 2090 NTD Giftpack purchase event (Non Taiwan and IOS)
+2390 NTD Top-up card·Trad. Chinese
+Use to join 2390 NTD Giftpack purchase event (Non Taiwan and IOS)
+2690 NTD Top-up card·Trad. Chinese
+Use to join 2690 NTD Giftpack purchase event (Non Taiwan and IOS)
+150 Diamond top-up card·Korean Server
+150 Diamond Korea Server top-up card
+250 Diamond top-up card·Korean Server
+250 Korea Server top-up card
+500 Diamond top-up card·Korean Server
+500 Korea Server top-up card
+1500 Diamond top-up card·Korean Server
+1500 Korea Server top-up card
+2500 Diamond top-up card·Korean Server
+2500 Korea Server top-up card
+5000 Diamond top-up card·Korean Server
+5000 Korea Server top-up card
+100000 Diamond top-up card·Korean Server
+10000 Korea Server top-up card
+1100 Korean Won top-up card
+Test Data
+2200 Korean Won top-up card
+Test Data
+6600 Korean Won top-up card
+Test Data
+8800 Korean Won top-up card
+Test Data
+11000 Korean Won top-up card
+Test Data
+1450 Korean Won top-up card
+Test Data
+22000 Korean Won top-up card
+Test Data
+31000 Korean Won top-up card
+Test Data
+51000 Korean Won top-up card
+Test Data
+7500 Korean Won top-up card
+Test Data
+16500 Korean Won top-up card
+Test Data
+32000 Korean Won top-up card
+Test Data
+46500 Korean Won top-up card
+Test Data
+69000 Korean Won top-up card
+Test Data
+4500 Korean Won top-up card
+Test Data
+1200 Korean Won top-up card
+Test Data
+2500 Korean Won top-up card
+Test Data
+Test Data
+9900 Korean Won top-up card
+Test Data
+12000 Korean Won top-up card
+Test Data
+16000 Korean Won top-up card
+Test Data
+25000 Korean Won top-up card
+Test Data
+35000 Korean Won top-up card
+Test Data
+57000 Korean Won top-up card
+Test Data
+8900 Korean Won top-up card
+Test Data
+19000 Korean Won top-up card
+Test Data
+37000 Korean Won top-up card
+Test Data
+55000 Korean Won top-up card
+Test Data
+79000 Korean Won top-up card
+Test Data
+4900 Korean Won top-up card
+Test Data
+4500 Korean Won top-up card (Value Giftpack)
+Test Data
+4900 Korean Won top-up card (Value Giftpack)
+Test Data
+Chariot Gear
+Randomly receive Chariot gear in any color
+Grade 13 Purple Gear
+Receive grade 13 purple gear
+Grade 13 Orange Gear
+Receive grade 13 orange gear
+Grade 13 Red Gear
+Receive grade 13 red gear
+Celebrity Band (28 days)
+Activate Celebrity Band costume, last for 28 days
+Pink Microphone (28 days)
+Activate Pink Microphone costume, last for 28 days
+Edge Guitar (28 days)
+Activate Edge Guitar costume, last for 28 days
+Neon Dual Blade (28 days)
+Activate Neon Dual Blade costume, last for 28 days
+Microphone Longbow (28 days)
+Activate Microphone Longbow costume, last for 28 days
+Use and receive [Oppo Warrior] title
+Use and receive [vivo Warrior] title
+Use and receive [Xiaomi Warrior] title
+Use and receive [Tencent Warrior] title
+Use and receive [9game Warrior] title
+Use and receive [Dark Supreme] title
+Use and receive [Platinum Supreme] title
+Use and receive [Gold Supreme] title
+Use and receive [Best Player] title
+Use and receive [Top Player] title
+Use and receive [Good Player] title
+Use and receive [TT VIP] title
+Use and receive [TT Expert] title
+Use and receive [TT Active Star] title
+Spring Blossoms
+Use and receive [Spring Blossoms] title
+Spoondrift
+Use and receive [Spoondrift] title
+Autumness
+Use and receive [Autumness] title
+Use and receive [Ko-rea! ] title
+Use and receive [Enter Final! ] title
+Use and receive [Korea Wins! ] title
+Use and receive [Nine-tailed fox fairy] Avatar Frame
+Use and receive [Buddha Mind] Avatar Frame
+Dazzling Voucher
+Used to exchange all kinds of rare items at Voucher Store
+Collect [6ecd8c]200[-] shards to fuse into Holy Shield Elf card, if it has been activated, fused card can be used to [ebd764]star up[-]
+Collect [6ecd8c]200[-] shards to fuse into Blaze Elf card, if it has been activated, fused card can be used to [ebd764]star up[-]
+Collect [6ecd8c]200[-] shards to fuse into Steel Hand Elf card, if it has been activated, fused card can be used to [ebd764]star up[-]
+Collect [6ecd8c]200[-] shards to fuse into Sharp Elf card, if it has been activated, fused card can be used to [ebd764]star up[-]
+Collect [6ecd8c]200[-] shards to fuse into Divination Elf card, if it has been activated, fused card can be used to [ebd764]star up[-]
+Collect [6ecd8c]200[-] shards to fuse into Umbrella Elf card, if it has been activated, fused card can be used to [ebd764]star up[-]
+Red Chariot Gear Shard
+Collect specific amount to fuse Red Chariot gear giftpack, open and receive one random red chariot gear
+Orange Chariot Gear Shard
+Collect specific amount to fuse Orange Chariot gear giftpack, open and receive one random orange deify gear gear
+Cupid
+Use to activate special pet -- Cupid \nIf activated, automatically convert material into [6ecd8c]50[-] star-up item- [ebd764]Remodel Essence[-]
+Swordsman Tian
+Use to activate special pet -- Swordsman Tian \nIf activated, automatically convert material into [6ecd8c]50[-] star-up item- [ebd764]Remodel Essence[-]
+Lv.1 Deify Gear·Pink Archangel Weapon
+Lv.1 Deify Gear·Pink Beast Master Weapon
+Lv.1 Deify Gear·Pink Artemis Weapon
+Lv.1 Deify Gear·Pink Giant God Weapon
+Lv.1 Deify Gear·Pink Siren Weapon
+Lv.1 Deify Gear·Pink Reaper Weapon
+Lv.1 Deify Gear·Pink Datenshi Weapon
+Lv.1 Deify Gear·Pink Torch
+Lv.1 Deify Gear·Pink Wine Glass
+Lv.1 Deify Gear·Pink Ray Nail
+Lv.1 Deify Gear·Pink Mirror
+Lv.1 Deify Gear·Pink Stone Tablet
+Lv.1 Deify Gear·Pink Key
+Lv.1 Deify Gear·Pink Deed
+Satan Staff
+Rose Staff
+Dragon Staff
+Satan Sword
+Rose Sword
+Dragon Sword
+Satan Dual Blade
+Rose Dual Blade
+Dragon Dual Blade
+Satan Longbow
+Rose Longbow
+Dragon Longbow
+Satan Mail
+Rose Mail
+Dragon Mail
+Satan Headgear
+Rose Headgear
+Dragon Headgear
+Satan Helmet
+Rose Helmet
+Dragon Helmet
+Satan Boots
+Rose Boots
+Dragon Boots
+Satan Ring
+Rose Ring
+Dragon Ring
+Satan Pendant
+Rose Pendant
+Dragon Pendant
+Satan Siderite
+Rose Siderite
+Dragon Siderite
+Satan Insignia
+Satan Insignia - EX
+Satan Insignia - ULT
+Material to [6ecd8c]fuse[-] or [6ecd8c]forge[-] mount, pet, wings and spirit pink gear \n[6ecd8c]Obtain from fusing 50 Rose Amber[-]
+Grade 13 Weapon
+Orange Chariot Gear Optional
+Open and choose 1 orange chariot gear
+Red Chariot gear optional
+Open and choose 1 red chariot gear
+Pink Chariot Gear Optional
+Open and choose 1 pink chariot gear
+Chat Bubble optional
+Use and pick one from below: \n[6ecd8c]Warmth of Gentleman*1[-] \n[6ecd8c]Warmth of Lady*1[-]
+Use and pick one from below: \n[6ecd8c]Splendid Totem*1[-]\n[6ecd8c]Spirit Soul*5[-]\n[6ecd8c]Mount Soul*5[-]\n[6ecd8c]Pet Soul*5[-]\n[6ecd8c]Wing Soul*5[-]\n[6ecd8c]Fine Mine*10[-]\n[6ecd8c]Gear star-up gem*2[-]
+Use and pick one from below: \n[6ecd8c]Splendid Totem*1[-]\n[6ecd8c]Spirit Soul*5[-]\n[6ecd8c]Mount Soul*5[-]\n[6ecd8c]Pet Soul*5[-]\n[6ecd8c]Wing Soul*5[-]\n[6ecd8c]Fine Mine*10[-]\n[6ecd8c]Gear star-up gem*2[-]\n[6ecd8c]Magical Powder*2[-]
+Use and pick one from below: \n[6ecd8c]Splendid Totem*1[-]\n[6ecd8c]Spirit Soul*5[-]\n[6ecd8c]Mount Soul*5[-]\n[6ecd8c]Pet Soul*5[-]\n[6ecd8c]Wing Soul*5[-]\n[6ecd8c]Fine Mine*10[-]\n[6ecd8c]Gear star-up gem*2[-]\n[6ecd8c]Magical Powder*10[-]\n[6ecd8c]D. Bead Essence*5[-]
+Daily Primary Giftpack 1
+Use and pick one from below: \n[6ecd8c]Spirit Soul*20[-]\n[6ecd8c]Mount Soul*20[-]\n[6ecd8c]Pet Soul*20[-]\n[6ecd8c]Wing Soul*20[-]\n[6ecd8c]Fine Mine*40[-]\n[6ecd8c]Gear star-up gem*10[-]\n[6ecd8c]Magical Powder*40[-]\n[6ecd8c]Demonify Essence*10[-]
+Daily Primary Giftpack 2
+Use and pick one from below: \n[6ecd8c]Spirit Soul*30[-]\n[6ecd8c]Mount Soul*30[-]\n[6ecd8c]Pet Soul*30[-]\n[6ecd8c]Wing Soul*30[-]\n[6ecd8c]Fine Mine*60[-]\n[6ecd8c]Gear star-up gem*15[-]\n[6ecd8c]Magical Powder*60[-]\n[6ecd8c]Demonify Essence*15[-]
+Daily Primary Giftpack 3
+Use and pick one from below: \n[6ecd8c]Spirit Soul*40[-]\n[6ecd8c]Mount Soul*40[-]\n[6ecd8c]Pet Soul*40[-]\n[6ecd8c]Wing Soul*40[-]\n[6ecd8c]Fine Mine*80[-]\n[6ecd8c]Gear star-up gem*20[-]\n[6ecd8c]Magical Powder*80[-]\n[6ecd8c]Demonify Essence*20[-]
+Daily Inter. Giftpack
+Use and pick one from below:\n[6ecd8c]Set Gem Shard*100[-]\n[6ecd8c]Normal Mark Shard*25[-]\n[6ecd8c]Deify Orange Gear Shard*50[-]\n[6ecd8c]Book of Illusion*15[-]\n[6ecd8c]Chaotic Crystal*5[-]\n[6ecd8c]Normal D. Bead Shard*50[-]
+Daily Adv. Giftpack
+Use and pick one from below:\n[6ecd8c]Set Divine Gem Shard*50[-]\n[6ecd8c]Orange Relic*1[-]\n[6ecd8c]Superior Mark Shard*10[-]\n[6ecd8c]Deify Red Gear Shard*25[-]\n[6ecd8c]D. Soul*2[-]\n[6ecd8c]Superior D. Bead Shard*25[-]
+Daily Premium Giftpack
+Use and pick one from below: \n[6ecd8c]Colorful Agate*30[-]\n[6ecd8c]Rose Gem*1[-]\n[6ecd8c]Holy Water*1[-]
+Daily Top Giftpack
+Use and pick one from below: \n[6ecd8c]Red Relic*1[-]\n[6ecd8c]Perfect Mark Shard*20[-]\n[6ecd8c]Perfect D. Bead Shard*50[-]
+Use and pick one from below: \n[6ecd8c]A. ATK Crystal*1[-]\n[6ecd8c]Mount ATK Essence*1[-]\n[6ecd8c]Pet ATK Essence*1[-]\n[6ecd8c]Wing ATK Essence*1[-]\n[6ecd8c]Spirit ATK Essence*1[-]
+Bronze Material optional
+Use and pick one from below:\n[6ecd8c]Tide Scroll I*1[-]\n[6ecd8c]Tide Scroll II*1[-]\n[6ecd8c]Tide Scroll III*1[-]\n[6ecd8c]Tide Crystal*10[-]\n[6ecd8c]Normal Moon Gem*10[-]
+D. Bead Shard optional
+Use and pick one from below:\n[6ecd8c]Normal D. Bead Shard*5[-]\n[6ecd8c]Superior D. Bead Shard*3[-]\n[6ecd8c]Perfect D. Bead Shard*2[-]
+Costume Shirt optional
+Use and pick one from below: \n[6ecd8c]Maple Sorrow*1[-]\n[6ecd8c]Beach Scenery*1[-]\n[6ecd8c]Night Ruler*1[-]\n[6ecd8c]Templar Angel*1[-]\n[6ecd8c]Winter Sonata*1[-]\n[6ecd8c]Bless Everywhere*1[-]
+Costume Weapon optional
+Use and pick one from below: \n[6ecd8c]Maple Sorrow Weapon*1[-]\n[6ecd8c]Beach Scenery Weapon*1[-]\n[6ecd8c]Night Ruler Weapon*1[-]\n[6ecd8c]Templar Angel Weapon*1[-]\n[6ecd8c]Winter Sonata Weapon*1[-]\n[6ecd8c]Bless Everywhere Weapon*1[-]
+Footprint optional Giftpack
+Use and pick one from below:\n[6ecd8c]Glacial Century*1[-]\n[6ecd8c]Shadow Step*1[-]\n[6ecd8c]Sacred Flame*1[-]\n[6ecd8c]Sakura Blossom*1[-]\n[6ecd8c]Tread Tornado*1[-]\n[6ecd8c]Night Rose*1[-]\n[6ecd8c]CNY Firework*1[-]\n[6ecd8c]Grass Yinyin*1[-]
+Mount optional Giftpack
+Use and pick one from below:\n[6ecd8c]Ding Dong*1[-]\n[6ecd8c]Night Throne*1[-]\n[6ecd8c]Devour Kraken*1[-]\n[6ecd8c]Crypt Lord*1[-]\n[6ecd8c]Prosperity*1[-]\n[6ecd8c]Violent Leopard*1[-]\n[6ecd8c]Magic Broom*1[-]\n[6ecd8c]Jurassic Overlord*1[-]\n[6ecd8c]Cute Corgi*1[-]
+Pet optional Giftpack
+Use and pick one from below:\n[6ecd8c]Piggy Foo*1[-]\n[6ecd8c]Sage Raccoon*1[-]\n[6ecd8c]Night Cat Spirit*1[-]\n[6ecd8c]Pumpkin Jack*1[-]\n[6ecd8c]Clown Peggy*1[-]\n[6ecd8c]Snowy White*1[-]\n[6ecd8c]Vibrant Lion*1[-]
+Wing optional Giftpack
+Use and pick one from below:\n[6ecd8c]CNY Lucky Bag*1[-]\n[6ecd8c]Sweet Ice Cream*1[-]\n[6ecd8c]Forest Dance*1[-]\n[6ecd8c]Night Guardian*1[-]\n[6ecd8c]Polar Soul*1[-]\n[6ecd8c]Innocence Windmill*1[-]
+Limited Costume optional
+Use and pick one from below:\n[6ecd8c]Twilight Academy*1[-]\n[6ecd8c]Beautiful Spring*1[-]
+Limited Weapon optional
+Use and pick one from below:\n[6ecd8c]Twilight Academy Weapon*1[-]\n[6ecd8c]Beautiful Spring Weapon*1[-]
+Limited Footprint optional
+Use and pick one from below:\n[6ecd8c]Wind Sailing*1[-]\n[6ecd8c]Happy Note*1[-]\n[6ecd8c]Dreamy Bubble*1[-]
+Limited Mount optional
+Use and pick one from below:\n[6ecd8c]Bulky Chick*1[-]\n[6ecd8c]Magic Carpet Shard*30[-]\n[6ecd8c]Auspibeast*1[-]\n[6ecd8c]Foolish*1[-]\n[6ecd8c]Jade Rabbit Shard*50[-]\n[6ecd8c]Windsurf Breaker*1[-]
+Limited Pet optional
+Use and pick one from below:\n[6ecd8c]Jurassic Baby*1[-]\n[6ecd8c]Drunk Raccoon*1[-]\n[6ecd8c]Punk Rabbit Shard*30[-]
+Limited Wing optional
+Use and pick one from below:\n[6ecd8c]The Moon*1[-]\n[6ecd8c]World No.1*1[-]\n[6ecd8c]Barrel Hamster*1[-]\n[6ecd8c]Vast Astrolabe*1[-]\n[6ecd8c]Moonlit Lyra*1[-]
+Demonify Essence
+Material for antique demonification, increase percentage base stats of antique
+A mysterious hest, open it to obtain a rare item.
+Use to activate special chariot--Land Formation \nIf activated, automatically convert material into [6ecd8c]50[-]star-up item-[ebd764]Remodel Essence[-]
+Lv.1 White chariot gear, increase [6ecd8c]10[-] ATK
+Lv.1 Green chariot gear, increase [6ecd8c]20[-] ATK
+Lv.1 Blue chariot gear, increase [6ecd8c]40[-] ATK
+Lv.1 Purple chariot gear, increase [6ecd8c]200[-] ATK
+Lv.1 orange chariot gear, increase [6ecd8c]400[-] ATK
+Lv.1 red chariot gear, increase [6ecd8c]640[-] ATK
+Lv.1 pink chariot gear, increase [6ecd8c]1200[-] ATK and [6ecd8c]10%[-] chariot ATK
+Lv.1 white chariot gear, increase [6ecd8c]20[-] DEF
+Lv.1 green chariot gear, increase [6ecd8c]40[-] DEF
+Lv.1 blue chariot gear, increase [6ecd8c]80[-] DEF
+Lv.1 purple chariot gear, increase [6ecd8c]400[-] DEF
+Lv.1 orange chariot gear, increase [6ecd8c]800[-] DEF
+Lv.1 Red chariot gear, increase [6ecd8c]1280[-] DEF
+Lv.1 Pink chariot gear, increase [6ecd8c]2400[-] DEF and [6ecd8c]10%[-] wings DEF
+Lv.1 White chariot gear, increase [6ecd8c]330[-] HP
+Lv.1 green chariot gear, increase [6ecd8c]660[-] HP
+Lv.1 Blue chariot gear, increase [6ecd8c]1320[-] HP
+Lv.1 purple chariot gear, increase [6ecd8c]6600[-] HP
+Lv.1 orange chariot gear, increase [6ecd8c]13200[-] HP
+Lv.1 red chariot gear, increase [6ecd8c]21120[-] HP
+Lv.1 Pink chariot gear, increase [6ecd8c]39600[-] HP and [6ecd8c]10%[-] wings HP
+Lv.1 White chariot gear, increase [6ecd8c]17[-] HIT and [6ecd8c]4[-] Anti-CRI
+Lv.1 Green chariot gear, increase [6ecd8c]34[-] HIT and [6ecd8c]8[-] Anti-CRI
+Lv.1 Blue chariot gear, increase [6ecd8c]68[-] Hit and [6ecd8c]16[-] Anti-CRI
+Lv.1 Purple chariot gear, increase [6ecd8c]340[-] Hit and [6ecd8c]80[-] Anti-CRI
+Lv.1 Orange chariot gear, increase [6ecd8c]680[-] Hit and [6ecd8c]160[-] Anti-CRI
+Lv.1 Red chariot gear, increase [6ecd8c]1088[-] Hit and [6ecd8c]256[-] Anti-CRI
+Lv.1 Pink chariot gear, increase [6ecd8c]2040[-] Hit, [6ecd8c]480[-] Anti-CRI and [6ecd8c]20%[-] wings Hit
+Lv.1 White chariot gear, increase [6ecd8c]17[-] Dodge and [6ecd8c]4[-] CRI
+Lv.1 Green chariot gear, increase [6ecd8c]34[-] Dodge and [6ecd8c]8[-] CRI
+Lv.1 Blue chariot gear, increase [6ecd8c]68[-] Dodge and [6ecd8c]16[-] CRI
+Lv.1 Purple chariot gear, increase [6ecd8c]340[-] Dodge and [6ecd8c]80[-] CRI
+Lv.1 Orange chariot gear, increase [6ecd8c]680[-] Dodge and [6ecd8c]160[-] CRI
+Lv.1 Red chariot gear, increase [6ecd8c]1088[-] Dodge and [6ecd8c]256[-] CRI
+Lv.1 Pink chariot gear, increase [6ecd8c]272[-] Dodge and [6ecd8c]40[-] CRI and [6ecd8c]20%[-] wings Dodge
+Lv.1 White chariot gear, increase [6ecd8c]10[-] DEF and [6ecd8c]4[-] CRI
+Lv.1 Green chariot gear, increase [6ecd8c]20[-] DEF and [6ecd8c]8[-] CRI
+Lv.1 Blue chariot gear, increase [6ecd8c]40[-] DEF and [6ecd8c]16[-] CRI
+Lv.1 Purple chariot gear, increase [6ecd8c]200[-] DEF and [6ecd8c]80[-] CRI
+Lv.1 Orange chariot gear, increase [6ecd8c]400[-] DEF and [6ecd8c]160[-] CRI
+Lv.1 Red chariot gear, increase [6ecd8c]640[-] DEF and [6ecd8c]256[-] CRI
+Lv.1 Pink chariot gear, increase [6ecd8c]1200[-] DEF, [6ecd8c]480[-] CRI and [6ecd8c]20%[-] wings CRI
+Lv.1 White chariot gear, increase [6ecd8c]170[-] HP and [6ecd8c]4[-] Anti-CRI
+Lv.1 Green chariot gear, increase [6ecd8c]340[-] HP and [6ecd8c]8[-] Anti-CRI
+Lv.1 Blue chariot gear, increase [6ecd8c]680[-] HP and [6ecd8c]16[-] Anti-CRI
+Lv.1 Purple chariot gear, increase [6ecd8c]3400[-] HP and [6ecd8c]80[-] Anti-CRI
+Lv.1 Orange chariot gear, increase [6ecd8c]6800[-] HP and [6ecd8c]160[-] Anti-CRI
+Lv.1 Red chariot gear, increase [6ecd8c]10880[-] HP and [6ecd8c]256[-] Anti-CRI
+Lv.1 Pink chariot gear, increase [6ecd8c]20400[-] HP, [6ecd8c]480[-] Anti-CRI and [6ecd8c]20%[-] wings Anti-CRI
+Lv.1 white chariot gear, increase [6ecd8c]8[-] ATK and [6ecd8c]70[-] HP
+Lv.1 green chariot gear, increase [6ecd8c]16[-] ATK and [6ecd8c]140[-] HP
+Lv.1 Blue chariot gear, increase [6ecd8c]32[-] ATK and [6ecd8c]280[-] HP
+Lv.1 Purple chariot gear, increase [6ecd8c]160[-] ATK and [6ecd8c]1400[-] HP
+Lv.1 Orange chariot gear, increase [6ecd8c]320[-] ATK and [6ecd8c]2800[-] HP
+Lv.1 red chariot gear, increase [6ecd8c]512[-] ATK and [6ecd8c]4480[-] HP
+Lv.1 pink chariot gear, increase [6ecd8c]960[-] ATK, [6ecd8c]8400[-] HP and [6ecd8c]10%[-] pet ATK
+Seimei
+Warsoul fights alongside player permanently! \nUse item when system is available to activate Class A Warsoul—[f8da34]Seimei[-]，[6ecd8c]Deploying will greatly lower the heal effect of enemy[-]\nWarsoul system will arrive after the 7/3 update, stay tuned!
+Dharma
+Warsoul fights alongside player permanently! \nUse item when system is available to activate Class A Warsoul—[f8da34]Dharma[-]，[6ecd8c]Deploying will greatly damage the enemy, causing them to bleed[-]\nWarsoul system will arrive after the 7/3 update, stay tuned!
+Activate special chariot
+Warsoul activation item
+Buff: \nRelic DEF +40%
+Buff: \nRelic HP +40%
+Buff: \nRelic ATK +30%
+Buff: \nRelic CRI +35% \nRelic Anti-CRI +35%
+Buff: \nRelic Hit +35% \nRelic Dodge +35%
+Buff: \nAll relic stats +5%
+[Special Chariot]Upgradable
+[Special Chariot]Can star-up
+Mount·Force
+Mount·Chivalry
+Mount·AGI
+Mount·Wit
+Mount·Resolve
+Mount·TEN
+Mount·Physique
+Mount·Deft
+Activated Effect: \nMount ATK stats +2%\nMount CRI stats +10%
+Activated Effect: \nMount HP stats +10%\nMount Anti-CRI stats +10%
+Activated Effect: \nMount HP stats +10%\nMount CRI stats +10%
+Activated Effect: \nMount DEF stats +5%\nMount Anti-CRI stats +10%
+Activated Effect: \nMount DEF stats +5%\nMount CRI stats +10%
+Activated Effect: \nMount ATK stats +3%\nMount Anti-CRI stats +10%
+The arrival of Venus has bought disaster to the snowfield...
+I'd like to hear you screaming rather than singing
+Stupid fools, leave this snowfield now!
+Darn hunter who came to snatch the treasure, die!
+Stupid hunter, the treasure is mine!
+Using chariot can deal higher damage to the tower
+Caution! Robot Engineer has the ability to destroy chariot
+The Orc Boss Ox Chieftain has appeared, proceed to defeat
+My Robot Engineer can give you a taste of destruction!
+Evil Venus has appeared, proceed to defeat
+Snowfield is filled with evil aura, find Colossus
+Snow Ape Boss has been agitated, defeat it
+Proceed to find traces of Colossus
+Sigh, your hunter journey is still long, improve your hunt title
+Young one, come and spar with me, I am not joking
+Young one, where did I stop, sigh, I am old......
+Young one, why are you not talking, I forgot where was I
+As a hunter, go one step at a time, and one day we will be the Hunter King
+Young one, as time passes, things forgotten......
+(╰_╯), that is the last chance, I will teach you a lesson
+Long time ago, I am also a famous person, handsome and popular......
+Young people must be patience, why so rude
+Young one, try it again and I will be mad
+Drive the chariot to help us!
+Beijing
+Dongcheng
+Fengtai
+Daxing
+Miyun
+Chaoyang
+Haidian
+Shijingshan
+Xicheng
+Tongzhou
+Shunyi
+Mentougou
+Fangshan
+Changping
+Huairou
+Pinggu
+Yanqing
+Shanghai
+Jiading
+Fengxian
+Baoshan
+Chongming
+Xuhui
+Putuo
+Yangpu
+Songjiang
+Pudong
+Hongkou
+Jinshan
+Changning
+Minhang
+Zhabei
+Qingpu
+Jing'an
+Huangpu
+Tianjin
+Dongli
+Nankai
+Heping
+Baodi
+Wuqing
+Hedong
+Hebei
+Hexi
+Jinnan
+Binhai
+Hongqiao
+Jizhou
+Jinghai
+Xiqing
+Beichen
+Ninghe
+Chongqing
+Wanzhou
+Wansheng
+Fengdu
+Yunyang
+Beibei
+Hechuan
+Dazu
+Fengjie
+Wushan
+Banan
+Zhongxian
+Liangping
+Wulong
+Yongchuan
+Jiangbei
+Jiangjin
+Shapingba
+Fuling
+Yuzhong
+Yubei
+Qijiang
+Tongliang
+Changshou
+Dadukou
+Jiulongpo
+Nan'an
+Tongnan
+Qianjiang
+Rongchang
+Bishan
+Chengkou
+Dianjiang
+Kaixian
+Wuxi
+Shizhu
+Xiushan
+Youyang
+Pengshui
+Nanchuan
+Shuangqiao
+Anhui
+Bozhou
+Lu'an
+Hefei
+Anqing
+Xuancheng
+Suzhou
+Chizhou
+Huaibei
+Huainan
+Chuzhou
+Wuhu
+Bengbu
+Tongling
+Fuyang
+Ma'anshan
+Huangshan
+Fujian
+Sanming
+Nanping
+Xiamen
+Ningde
+Quanzhou
+Zhangzhou
+Fuzhou
+Putian
+Longyan
+Gansu
+Lanzhou
+Jiayuguan
+Tianshui
+Dingxi
+Pingliang
+Qingyang
+Zhangye
+Wuwei
+Gannan
+Jiuquan
+Jinchang
+Longnan
+Linxia
+Guangdong
+Dongguan
+Zhongshan
+Yunfu
+Foshan
+Guangzhou
+Huizhou
+Jieyang
+Meizhou
+Shantou
+Shanwei
+Jiangmen
+Heyuan
+Shenzhen
+Qingyuan
+Zhanjiang
+Chaozhou
+Zhuhai
+Zhaoqing
+Maoming
+Yangjiang
+Shaoguan
+Guangxi
+Beihai
+Nanning
+Chongzuo
+Laibin
+Liuzhou
+Guilin
+Wuzhou
+Hechi
+Yulin
+Baise
+Guigang
+Hezhou
+Qinzhou
+Fangchenggang
+Guizhou
+Liupanshui
+Anshun
+Bijie
+Guiyang
+Zunyi
+Tongren
+Qiandongnan
+Qiannan
+Qianxinan
+Hainan
+Wanning
+Sanya
+Dongfang
+Lingao
+Wuzhishan
+Baoting
+Danzhou
+Ding'an
+Tunchang
+Wenchang
+Changjiang
+Haikou
+Chengmai
+Qionghai
+Lingshui
+Sansha
+Baisha
+Ledong
+Qiongzhong
+Yunnan
+Lincang
+Lijiang
+Baoshan
+Dali
+Dehong
+Nujiang
+Wenshan
+Kuming
+Zhaotong
+Pu'er
+Qujing
+Chuxiong
+Yuxi
+Honghe
+Xishuangbanna
+Deqen
+Jilin
+Siping
+Yanbian
+Songyuan
+Baicheng
+Baishan
+Liaoyuan
+Tonghua
+Changchun
+Sichuan
+Leshan
+Neijiang
+Liangshan
+Nanchong
+Yibin
+Bazhong
+Guangyuan
+Guang'an
+Deyang
+Chengdu
+Panzhihua
+Luzhou
+Garze
+Meishan
+Mianyang
+Zigong
+Ziyang
+Dazhou
+Suining
+Aba
+Ya'an
+Ningxia
+Zhongwei
+Wuzhong
+Guyuan
+Shizuishan
+Yinchuan
+Shandong
+Dongying
+Linyi
+Weihai
+Dezhou
+Rizhao
+Zaozhuang
+Tai'an
+Jinan
+Jining
+Zibo
+Binzhou
+Weifang
+Yantai
+Liaocheng
+Laiwu
+Heze
+Qingdao
+Shanxi
+Linfen
+Lvliang
+Datong
+Taiyuan
+Xinzhou
+Jinzhong
+Jincheng
+Shuozhou
+Yuncheng
+Changzhi
+Yangquan
+Jiangsu
+Nanjing
+Nantong
+Suqian
+Changzhou
+Xuzhou
+Yangzhou
+Wuxi
+Taizhou
+Huai'an
+Yancheng
+Suzhou
+Luanyungang
+Zhenjiang
+Jiangxi
+Shangrao
+Jiujiang
+Nanchang
+Ji'an
+Yichun
+Fuzhou
+Xinyu
+Jingdezhen
+Pingxiang
+Ganzhou
+Yingtan
+Hebei
+Baoding
+Tangshan
+Langfang
+Zhangjiakou
+Chengde
+Cangzhou
+Shijiazhuang
+Qinhuangdao
+Hengishu
+Xingtai
+Handan
+Henan
+Sanmenxia
+Xinyang
+Nanyang
+Zhoukou
+Shangqiu
+Anyang
+Pingdingshan
+Kaifeng
+Xinxiang
+Luoyang
+Jiyuan
+Luohe
+Puyang
+Jiaozuo
+Xuchang
+Zhengzhou
+Zhumadian
+Hebi
+Zhejiang
+Lishui
+Taizhou
+Jiaxing
+Ningbo
+Hangzhou
+Wenzhou
+Huzhou
+Shaoxing
+Zhoushan
+Quzhou
+Jinhua
+Hubei
+Xiantao
+Shiyan
+Xianning
+Tianmen
+Xiaogan
+Yichang
+Enshi
+Wuhan
+Qianjiang
+Jingzhou
+Jingmen
+Xiangyang
+Ezhou
+Suizhou
+Huanggang
+Huangshi
+Shennongjia
+Hunan
+Loudi
+Yueyang
+Changde
+Zhangjiajie
+Huaihua
+Zhuzhou
+Yongzhou
+Xiangtan
+Xiangxi
+Yiyang
+Hengyang
+Shaoyang
+Chenzhou
+Changsha
+Liaoning
+Dandong
+Dalian
+Fushun
+Chaoyang
+Benxi
+Shenyang
+Panjin
+Yingkou
+Huludao
+Liaoyang
+Tieling
+Jinzhou
+Fuxin
+Anshan
+Shaanxi
+Xianyang
+Shangluo
+Ankang
+Baoji
+Yan'an
+Yulin
+Hanzhong
+Weinan
+Xi'an
+Tongchuan
+Xinjiang
+Urumqi
+Ili
+Tuoyunxiang
+Karamay
+Bortala
+Turpan
+Hotan
+Kumul
+Kaxgar
+Qoqek
+Bayingol
+Changji
+Shihezi
+Aksu
+Altay
+Aral
+Tumxuk
+Wujiaqu
+Tibet
+Shannan
+Lhasa
+Xigaze
+Chengguanzhen
+Nyingchi
+Nagqu
+Ngari
+Qinghai
+Haidong
+Haibei
+Hainan
+Haixi
+Xining
+Huangnan
+Golog
+Yushu
+Heilongjiang
+Qitaihe
+Yichun
+Jiamusi
+Shuangyashan
+Harbin
+Da Hinggan Ling
+Daqing
+Mudanjiang
+Suihua
+Jixi
+Hegang
+Heihe
+Qiqihar
+Inner Mongolia
+Ulanqab
+Wuhai
+Xing'an
+Baotou
+Hulun Buir
+Hohhot
+Bayan Nur
+Chifeng
+Tongliao
+Ordos
+Xilin Gol
+Alxa
+Glory Warrior
+Robot Destroyer
+Wolf Warrior
+Glory Knight
+Savage Archer
+Savage Warrior
+Wolf Shaman
+Pig Warrior
+Highland Elk
+Ice Guard
+Orc Cannoneer
+Robot Noir
+Vicious Birdman
+Ox Fighter
+Ice Soul
+Ice Giant
+Ice Fighter
+Ice Cannoneer
+Blue Troll
+Snow Giant
+Evil Venus
+Ice Soul Fear
+Revenant Guard
+Snow Devil
+Ice Element
+Cyclops
+Lich King
+Ice Knight
+Rampage Snow Ape
+Sea Lord
+Glacier Pioneer
+Sleepless Abyss
+We were forced to leave the Glory City when we lost the war, exiled to this cold place.
+Heavy Snow Ape
+Soon, there will be no place for us.
+Ice Merchant
+Young one, there are no specialties available here in the world of ice and snow.
+Here is the cave of the Vampires, be careful.
+I've been around the world, but this place intrigues me the most.
+Green Troll
+This is not the entrance to the dwarf's place anymore, we orcs has occupied it.
+Ice Commander
+For the honor of Glory Kingdom , train well.
+White Queen
+We do not welcome random people, my servants, send them out!
+Ryjer
+My name is Jerry......no, Ryjer, is there anything?
+Mysterious Priest
+Destiny is in your own hands!
+Voucher
+Chariot Gear EXP
+The Peak Road is full of challenges, face them with full force!
+Are the brave Awakened ready for the new challenges?
+There is an island within the Mysterious Sea, perhaps that is your chance! You must learn to blend in with the island life, and wait for the chance!
+Get [6ecd8c]25 purple fish[-]
+Use [6ecd8c]5 Delicious Pan-fried Fish[-]
+Reach [6ecd8c]Lv. 580[-]
+Faces all the challenges with your bravest stance on the Peak Road, break the darkness and welcome the dawn!
+Talk with [6ecd8c]Diviner[-]
+Young one, I know why you came, the seas has not been calm lately, I feel something is happening soon!
+Perhaps I can help.
+Strong monsters appeared around the sea, you can have some training!
+Kill [6ecd8c]Daily Boss 7 times[-]
+I feel like things is getting out of hand, there are more and more monsters appearing
+Looks like we are getting into some deep trouble, I hope you can help us out!
+Kill [6ecd8c]Sea Mob[-]
+Kill any monster in Welkin Sea to complete
+I found some strange conch while killing mobs, perhaps we can find something from it
+Now that you've said it, please bring me some conch, perhaps I can find something
+Collect [6ecd8c]Mysterious Conch[-]
+I've found the reason behind all of this by divinition, but you must get stronger or it would be dangerous!
+Reached [6ecd8c]Lv. 600[-]
+Only the chosen warriors have the power to fight with the ancient and powerful creature. You can break the shackle and switch class if you succeed the challenge!
+There is a Mysterious Priest near the island, find him and he can help you!
+Talk to [6ecd8c]Mysterious Priest[-]
+The diviner is still on point with his divination I see
+All the recent trouble are caused by the Sea Lord who was exiled by its own kin,  it vented it's wrath on the monsters nearby, causing trouble to our island
+Defeat [6ecd8c]Sea Lord[-]
+Looks like you found your own path on the island, congratulations on making another step on the Peak Road!
+Pet.Force
+Pet.Chivalry
+Pet.AGI
+Pet.Wit
+Pet.Resolve
+Pet.TEN
+Pet.Physique
+Pet.Deft
+Activated Effect:\nPet ATK stats +2%\nPet HIT stats +10%
+Activated Effect:\nPet HP stats +10%\nPet EVA stats +10%
+Activated Effect:\nPet HP stats +10%\nPet HIT stats +10%
+Activated Effect:\nPet DEF stats +5%\nPet EVA stats +10%
+Activated Effect:\nPet DEF stats +5%\nPet HIT stats +10%
+Activated Effect:\nPet ATK stats +3%\nPet EVA stats +10%
+Massive EXP, chariot material
+BOSS Floor 6
+Hunter King Floor 1
+Hunter King Floor 3
+Hunter King Floor 2
+Mentorship Dungeon (Soldier)
+Mentorship Dungeon (Knight)
+Mentorship Dungeon (Warrior)
+Mentorship Dungeon (Marshal)
+Mentorship Dungeon (General)
+Mentorship Dungeon (Lord)
+Plant Rainbow Grass
+Wild Floor 4
+Impasse Malefic
+Malefic King
+Desert Malefic
+Forgotten Malefic
+Wilderness Malefic
+Arduous Desert (Maze)
+Dungeon Maze (Lv.30)
+Lv. 1100 World Boss
+Lv. 900 World Boss
+Lv. 1000 World Boss
+Bond Dungeon (Bronze)
+Bond Dungeon (Silver)
+Bond Dungeon (Iron)
+Bond Dungeon (Legend)
+Bond Dungeon (Gold)
+Bond Dungeon (Platinum)
+Dungeon Maze (Lv.40)
+Dungeon Maze (Lv.60)
+Hunter Boss
+Camp Herald Normal ATK 2
+Camp Herald Normal ATK 1
+Camp Strategist Normal ATK 2
+Camp Strategist Normal ATK 1
+Camp Inspector Normal ATK
+Camp Commercial Officer Normal ATK
+Camp Resource Officer Normal ATK
+Camp Leader Normal ATK
+Camp Logistics Normal ATK 2
+Camp Logistics Normal ATK 1
+Sacrifice
+Element ATK
+Burst
+Guardian Angel
+Aftershock
+Fire Seal 2
+Normal ATK 2_Shrek
+Special Partner Venus 0 Star
+Special Partner Venus 1 Star
+S.Raid
+Instant Kill_Night'ella
+Nian Beast Normal ATK 1
+Drunken Fist_Panda
+Red Scythe Scatter
+Nian Beast headbutt
+Nian Beast Flame Rain
+Nian Beast Trample
+Rash Roar_Shrek
+Silver Bullet_Van Helsing
+Venomous Skill 3-combo
+Reaper Boss Normal Combo 2
+Reaper Boss Normal ATK
+Venomous Normal ATK
+Venom Ejection
+Boss Scarlet Slash
+Boss Reaper Zone
+Bond Dungeon Flame Attack
+Anti-fire
+Aftershock 2
+Aftershock 3
+Frostbolt 2
+Element ATK 2
+Venom Seal 2
+Venom Seal 3
+Rejuvenate 2
+Sacrifice 2
+Frostbolt
+Anti-water
+Datenshi Normal ATK 2
+Scatter Shot_Red Riding Hood
+Special Partner Lone Wolf
+Labor Dungeon Freeze
+Boss Evil Tangle
+Chariot Normal ATK
+Invincible Shield
+Venus Normal ATK
+Rhapsody
+Demonic Sound
+Snow Ape boss Normal ATK
+Rush_Panda
+Special Partner Venus Array
+Slaughter 2
+Rejuvenate 3
+Burst 3
+Burst 2
+Aftershock 4
+Element ATK 3
+Datenshi Normal ATK 1
+Transform Chick
+Normal ATK_Night'ella
+Labor Dungeon Hurricane Monster
+Labor Dungeon Blizzard
+Try Chariot Skills
+Labor Dungeon Normal Attack
+Snow Ape boss Normal Chain ATK 2
+Snow Ape Frenzy
+Fallen Angel Lucifer
+Battle Soul combo 2 (hunter disabled)
+Red Scythe Ghost Ship
+Night'ella rushed to the back of the enemy, dealing AOE DMG twice equal to 100% ATK DMG with extra 100 DMG, max 3 targets
+Death Dance: Instant Kill DMG increased to 150% of ATK
+Deep Wound: Instant Kill extra DMG increased to 1000
+Death Dance Lv.2: Instant Kill DMG increased to 250% of ATK
+Red Hat Hunter attacks 3 time in front, dealing DMG equal to 80% of ATK plus 100 extra DMG
+Firepower Enhance: Scatter Shot DMG increased to 120% of ATK
+Burst Bullet: Scatter Shot extra DMG increased to 700
+Firepower Enhance Lv.2: Scatter Shot DMG increased to 200% of ATK
+Pandamurai unleashes Drunken Fist 3 times, dealing 105% ATK DMG with extra 100 DMG, max 3 targets
+Giant Shrek pummels the ground, dealing AOE DMG equal to 90% ATK DMG with extra 100 DMG, and pushes targets by 2m
+Giant's Wrath: Rash Roar DMG increased to 150% of ATK
+Giant's Wrath: Rash Roar extra DMG increased to 650
+Van Helsing attacks front 3 times, dealing 100% ATK DMG with extra 100 DMG in total, max 3 targets.
+Fatal Shot: Silver Bullet DMG increased to 150% of ATK
+Penetrate: Silver Bullet extra DMG increased to 1000
+Fatal Shot Lv.2: Silver Bullet DMG increased to 250% of ATK
+boss Reaper Normal ATK 2
+boss Reaper Normal ATK 1
+Bond Dungeon
+Guardian Angel 2
+Sacrifice + Burst
+Bond Dungeon Anti-water
+Lucifer Normal ATK 2
+Snow Ape Normal ATK
+Guardian Angel 3
+Lucifer normal ATK
+Chick Run Dungeon Transform upon entry
+Monster Flurry (Dungeon 51)
+Blizzard, deals DMG 3 times, every 1 Pts (Dungeon 51)
+Upon skill release there's 20% chance to deal 145% ATK DMG to target
+Upon skill release there's 20% chance to deal 155% ATK DMG to target
+Upon skill release there's 20% chance to deal 170% ATK DMG to target
+Attacks increase own ATK by 22% for 6s
+Attacks increase own ATK by 24% for 6s
+Attacks increase own ATK by 26% for 6s
+Attack have 30% chance to gain 24% lifesteal effect, lasts 5s
+Monster Ranged ATK (Dungeon 51)
+and freezes enemy for 2 sec (Dungeon 51)
+Snow Ape Normal ATK 2
+Match Girl channels her flame in front of her, causing an explosion, dealing 100% ATK DMG with extra 100 DMG, max 3 targets
+Flame Enhance: Flame Blast DMG increased to 150% of ATK
+Burst: Flame Blast extra DMG increased to 1000
+Flame Enhance Lv.2: Flame Blast DMG increased to 250% of ATK
+Boots Cat Elf spins and attacks enemies around it, dealing 90% ATK DMG, and slows by 30% for 2 sec
+Hamstring: Ancestral Sword slow duration increased by 3 sec
+Stinger: Ancestral Sword DMG increased to 150% of ATK
+Hamstring Lv.2: Ancestral Sword slow effect increased to 50%
+Mermaid Princess summons Ocean Freeze, deals 75% ranged ATK DMG to targets and freezes them for 1s, max 3 targets
+Dracula unleashes Bloodclan's Contract, player receives Omnipotent effect, for 2s player is immune from all control effects
+Bloodthirst: Blood Contract omnipotent time increased to 3 sec
+Bloodthirst Lv.2: Blood Contract omnipotent time increased to 5 sec
+Bloodthirst Lv.3: Blood Contract omnipotent time increased to 7 sec
+Enhance Recovery: Snow Blessing recovery effect increased to 180% of ATK
+Bless: Snow Blessing recover extra 1600HP
+Glacier Barrier: Snow Blessing gives a barrier equal to 5% of max HP, lasts 6s
+Peter Pan summons lightning, deals 75% ATK DMG to front targets and stuns them for 1 sec, max 3 targets
+Paralyze: Thunder rolls stun duration increase by 0.5s
+Thunderstorm: Thunder rolls DMG increased to 150% of ATK
+Paralyze Lv.2: Thunder rolls stun duration increase by 1s
+Rookie Hunter 3-star Giftpack
+Rookie Hunter 4-star Giftpack
+Rookie Hunter 5-star Giftpack
+Bronze Hunter 1-star Giftpack
+Bronze Hunter 2-star Giftpack
+Bronze Hunter 3-star Giftpack
+Bronze Hunter 4-star Giftpack
+Bronze Hunter 5-star Giftpack
+Silver Hunter 1-star Giftpack
+Silver Hunter 2-star Giftpack
+Silver Hunter 3-star Giftpack
+Silver Hunter 4-star Giftpack
+Silver Hunter 5-star Giftpack
+Gold Hunter 1-star Giftpack
+Daily Quest 12
+Daily Quest 13
+Daily Quest 14
+Daily Quest 15
+Kill Pursuit — Lv. 700
+Winter Abyss — Lv. 900
+Tiny Realm — Lv. 900
+Listen to Panda's nagging patiently
+Boots Cat Elf's HP more than 50%
+Shrek's HP more than 50%
+Defeat Dracula
+Summon Snow White
+Peak Material
+Spirit.Force
+Spirit.Chivalry
+Spirit.AGI
+Spirit.Wit
+Spirit.Resolve
+Spirit.TEN
+Spirit.Physique
+Spirit.Deft
+Activated Effect:\nSpirit ATK stats +2%\nSpirit HIT stats +10%
+Activated Effect:\nPet ATK stats +10%\nPet HIT stats +
+Activated Effect:\nSpirit HP stats +10%\nSpirit HIT stats +10%
+Activated Effect:\nSpirit DEF stats +5%\nSpirit EVA stats +10%
+Activated Effect:\nSpirit DEF stats +5%\nSpirit HIT stats +10%
+Activated Effect:\nSpirit ATK stats +3%\nSpirit EVA stats +10%
+Peak Mage
+Peak Warrior
+Peak Assassin
+Peak Ranger
+Deify not activated
+Req. at least 1 Deify Red gear
+Received [36da34]%s[-] Fine Mine
+Wrong Chariot Configuration
+Chariot reached max Star Lv.
+Reach Base Chariot Grade %s able to star-up
+Failed to level up gear
+Gear reached max level
+Failed to dismantle gear
+Gear dismantled
+Fused 
+Fusion failed 
+Insufficient item 
+Only Red gear can be fused into Pink gear
+Only Pink gear can be forged
+Insufficient Quality
+Insufficient Type
+No switchable gear
+Grade %s Chariot\nUnlock
+Lv. %s chariot gear unlocked
+Reach Base Chariot Grade %s to star-up
+Reach Base Chariot Grade %s to level up
+Activate Chariot for Permanent Stats Buff
+[%s]%s Grade %s Seal (%s/%s)[-]
+You've owned the Battle Soul Seal\nContinue fusion?
+"Opens 8 day after server opens
+Chariot Dungeon locked
+Crisis
+Rugged
+End of road
+Flaming Sea
+Romance Pts: [%s]%s[-]
+Charm Pts: [%s]%s[-]
+Reach %s Romance Pts to get ranked
+Reach %s Charm Pts to get ranked
+Send flower doesn't join ranking event
+   Romance Pts: [%s]%s[-]
+   Charm Pts: [%s]%s[-]
+My Rank: %s My %s: %s
+Charm Pts
+Romance Pts
+Charm Pts: %s
+Romance Pts: %s
+Friend Intimacy:
+Charm Pts:
+Gift Value:
+Reach %s Romance Pts to claim
+Reach Charm Pts %s to claim
+Target's Charm Pts [e0d20b]+ %s[-]\nAlly's Romance Pts [e0d20b]+ %s[-]
+Sent!
+Not within the event period
+Send time slot has passed
+Unable to send gift to self
+Charm Pts: [e0d20b]%s[-]
+Confirm spend %s Diamond to purchase [%s]%s[-]?
+Warsoul function will reactivate by 7th March, stay tuned!
+Usable by Lv.%s %s
+Warsoul Presale
+Grade 13
+Confirm Spend [ebd764]%s[-] Gold to purchase %s%% Blood pool supply? \n
+Registration period: [ecd864] Opens 3 day after server opens[-]
+著作权人&出版服务单位：广州乐牛软件科技有限公司      批准文号：新广出审【2016】957号\n出版物号：ISBN 978-7-89988-806-3      文化部备案号：文网游备字〔2016〕Ｍ-RPG 2670 号      著作权登记号：2015SR248199
+著作权人&出版服务单位：广州乐牛软件科技有限公司    批准文号：新广出审[2016]2943号\n出版物号：ISBN 978-7-7979-1543-4    文化部备案号：文网游备字〔2016〕Ｍ-RPG 2657 号    著作权登记号：2015SR119056
+Draw %s more times
+Spin %s times
+[%s]No Ranking[-]
+[ffff83]Rank: No.[6ecd8c]%s[-][-]
+[ffff83]Current Acc. Roulette: [6ecd8c]%s[-] times[-]
+[ffff83]Event Countdown:[-] [%s]%s[-]
+[ffff83]Season Ranking Calibration Countdown: [%s]%s[-]
+Spend [%s]%s Diamond[-] to spin 1 time?
+Spend [%s]%s Diamond[-] to spin %s time?
+Not on the list
+Reach Acc. Draw [%s]%s[-] to get ranked
+Join roulette [%s]%s[-] times
+[e6ecee]Level             [a6acb4]%s[-][-]
+[e6ecee]Level[-]             [a6acb4]%s[-][e0d20b](Level maxed)[-]
+[36da34]Lv. %s[-]
+Failed to Demonify
+Gear reached max demonify level
+Insufficient Material
+Demonify Antique unlocked
+Demonify Antique, greatly increase CP!
+Antique Bead unlocks at Lv.%s
+Peak Switch II unlocks at Peak Lv.%s
+"Daily Acc. Top-up opens 8 day after server opens
+Peak Switch II
+Scene requires Peak 2 Switch II to enter
+World Server in distribution, scene hasn't been generated
+[ff6450]Chariot reached %s-Star to activate[-]
+1, Gather all [ff6450]6[-] specific quality appearance to activate corresponding assembly type that grants stats Buff\n2, If assembly type doesn't reach [ff6450]6[-], the assembly type's base stats Buff [ff6450]won't come to effect[-]\n3, Every assembly type gear can only be equipped with [ff6450]corresponding quality[-] or [ff6450]higher than current gear quality requirement[-]\n4, All activated assembly type stats Buff and passive skill Buffs are stackable\n5, Assembly type gear slot can only be equipped with [ff6450]Lv. 1[-] appearance gear, when equipping appearance gear above Lv. 1, gear [ff6450]it's level will reset to Lv. 1[-]\n6, Appearance gear who got it's level reset have it's EXP [ff6450]refunded into EXP pool[-]\n7, Every type of assembly upon equip, will have their increased stats go through [ff6450]conversion rate before being added into character[-]
+1, Pink gear fusion requires a set amt. of [6ecd8c]Rose Gem[-] and some Deify Red gears\n2, The more Red gears used in fusion, the higher the fusion success rate\n[ff6450]3, Fusion failure destroys all Rose Gem and Red gear used[-]\n[6ecd8c]4, Upon using leveled gear as fusion material, regardless of fusion success, will have it's EXP and Fine Mine refunded[-]
+You may encounter Top-up abnormality, due to Apple Top-up System Error. We'd recommend Top-up through our Official Top-up Centre for a 5% discount.
+Proceed to Official Web
+Summon Boss
+1, Requires [00ff00]Peak Lv. 200[-] and accepted [Peak Switch II]'s [00ff00]4th stage quest[-]\n2, Peak Switch II Trial lasts [00ff00]5m[-], kill the Sea Lord to finish the challenge\n3, Recommend [00ff00]23500000 CP[-] before challenging, gather other players to challenge together
+[696969]M.ATK[-]
+[696969]M.DEF[-]
+[696969]M.HIT[-]
+[696969]M.EVA[-]
+[696969]M.CRI[-]
+[696969]M.Anti-CRI[-]
+Peak Switch %s
+You've summoned a Boss, kill it first!
+The assembly's conversion rate is %s%%
+[ff6450]Activate [%s]to activate this skill[-]
+[ffa050]Orange and above[-]
+[ff6450]Red and above[-]
+[ff7aa6]Pink and above[-]
+No talent available
+Assembly function [ff6450]only Lv. 1 appearance gear are equipable[-],\nEquip Lv. 1 and above gear resets current equipment to Lv. 1\n[ff6450]Reset EXP will be refunded into EXP pool[-]
+%s-star
+[%s]Skill Effect: %s[-]
+Item exchange
+Item purchase
+Pray 10 times
+Spend: %s
+Outland scene requires Peak Switch II
+Presale purchase is limited 1
+Presale time: %s—%s
+%m Month %d Day
+Original price: $%s
+Current price: $%s
+[ffff83]Event Countdown: %s[-]
+Max usage reached, your VIP level has reached [dc143c]VIP 15[-], can proceed to Gold Dungeon for more Gold[-]!
+[6ecd8c](Completed)[-]
+[b]　　　 %s\nReach level [ff6450]%s[-][-]%s
+This round guess has finished
+Wrong Team ID
+You've become the Champion Guess, unable to join Guess.
+Not within Guess period
+Breakout Time: [ecd86A]%s Month %s Day (%s) - %02d:%02d ~ %02d:%02d
+%s Month %s Day (%s) - %02d:%02d ~ %02d:%02d
+Lv. [ecd86A]900[-]~[ecd86A]1200(Old server)[-]
+Lv. 900~1200(Old server)
+Coronation Time: [ecd824]%s year %s month %s Day[-]
+1. Divided into 3 Regions: [6ecd8c]Lv300-Lv399, Lv400-Lv599,\n                    Lv600-Lv1000[-]\n2. Teams are divided according to the highest level team member into different region\n3. As teams are divided, any forms of leveling won't affect team region distribution
+1. Divided into 3 Regions: [6ecd8c]Lv300-Lv399,Lv400-Lv499,\n                    Lv500-Lv599,Lv600-Lv699,\n                    Lv700-Lv1200,Lv900-1200(Old server)[-]\n2. Teams are divided according to the highest level team member into different region\n3. As teams are divided, any forms of leveling won't affect team region distribution
+ [ecd864]Demonify + %s[-]
+Put in at least one Red pet gear
+Current unequipped chariot gear
+Tap to put in Deify Red gear
+Tap to put in Chariot Red gear
+Types: [ecd864]chariot gear[-]
+Types: [ecd864]chariot gear[-]\n[ffffff]Obtained through Pink Chariot Fusion[-]
+Types: [ecd864]deify gear[-]
+Type: [ecd864]deify gear[-]\n[ffffff]Obtained through deify gear Fusion[-]
+Entered current scene!
+Unable to jump in current scene
+You've left your own camp, quest failed! \n[ff6450]Can retake camp quest on quest panel[-]
+%m Month %d Day after M.S.
+[00ff00]Event ended, time left to exchange: %s[-]
+0 hr 1 min
+Tower
+Not within recommended range, unable to republish
+Confirm to spend [36da34]%s[-]      \nTo refresh shop 1 time
+Confirm to spend [36da34]%s[-]      \nTo refresh shop 10 times
+[ff6450]Top-up over a set threshold in single receipt to claim giftpack
+[6ecd8c]Lv. 1 DEF Gem[-]
+1. Every time being refreshed will reset 8 items on the table, few rate to get rare items; \r\n2. Every refresh increase 1 lucky pt, when it reaches certain value, unique special item will surely pop up; \r\n3. Every time an item with Treasure Mark is purchased, lucky Pts will be cleared, other item will not cause this effect; \r\n4. There is limited stock for rare item, each player can only purchase it for once, so don't miss it
+Dear, please equip your deify with Red and above deify gear
+Grade 13 Red gear
+Grade 14 Red gear
+Grade 15 Red gear
+Grade 13
+1. Within the event period, guild member must register and wait for the distribution\n\n2. In the warzone, [ff6450]defeat player, contend War Flag and collect chest [-] to obtain guild points\n\n3. After the event, it will be ranked based on the total guild point and send the guild rewards to each player\n\n4. The diamonds will be [ff6450]unified distribution[-]by leader\n\n5. The guild member which has [ff6450]more than 2000[-] of weekly prosperity and contri. can receive the distribution of diamond, please join any guild event actively\n\n6. Guild rewards are unified to be sent at [ff6450]21:00[-]\n\n7, New server open [ff6450]Day 3[-] unlocks 1st Guild War
+[ffff83]Season Ranking Calibration Countdown: 1 day 15 hr 22 min
+Event Countdown: 1 day 15 hr 22 min
+Current Acc. Draw: [6ecd8c]20[-] times
+No.1
+Acc. draw [6ecd8c]9999[-] times
+Demonify
+Forge Type
+Start Demonify
+Demonify all
+Demonify level won't be affected by antique change or dismantled
+Purchase all
+Outland Wilderness
+Player name 7 words
+Player name 6 words
+Charm Pts: 9999
+My Rank: Unranked, My Charm Pts: 1000
+Countdown:
+Send flower doesn't join event
+Charm Pts: 9999999
+C.S. recommended Gift
+Record
+Current Server
+Character name 6 words
+Charm Pts: 99999
+No gift target yet
+Accept gift
+No gift record yet
+C.S. Gift
+Send gift to friends increases Friend Intimacy
+Target's Charm Pts +999\nAlly's Romance Pts + 999
+Please answer question [6ecd8c]20[-]: \n[6ecd8c]How many strings does an Erhu has? (Answer in two Chinese Characters)[-]
+Name of monster (Elite)
+Player name 6 words (Team)
+[e6ecee]ATK +3355[-]   \n[e6ecee]DEF +35[-]
+[ff7aa6]Pink[-] and above
+This part's gear stats has a conversion rate is 80% upon equip
+Peak Breakthrough
+Unlock New Outland Scene
+\tUnlocks Peak Magic stat points\t\t
+Assembly
+[u]Rule Description
+Assembly Skill
+High Star Lv. effect will be replaced with low Star Lv. effect\r\n
+Different Lil' Spirit skill effect stackable
+Item exchange
+Total
+Spend: 0
+[6ecd8c]Blessing Draw has ended, please exchange Pts for gift in time[-]
+1, During Presale event, players are offered low priced Grade A Warsoul and unique exclusive Avatar Frame;\n2, Purchased Warsouls are only available 7th of March after new function patch, Avatar Frame however can be used upon purchase;\n3, Should player miss the presale, Warsouls can still be obtained through Spirit Palace which also be available by 7th of March;\n4, Warsoul System, summon a warsoul to fight alongside, more powerful Warsoul skill will be available.
+Happiness choosing 1 of 2, happy fighting; Miss it now, and you'll regret it later! \r
+Presale time: 26th Feb 2019 — 27th Feb 2019
+Warsoul Presale Pack
+Original price: $999
+Current price: $999
+This is not a just pet, it can fight alongside you! \r\nThis isn't a Spirit as well, because it accompanies you forever!
+Giftpack can only be purchased once, and not counted into Top-up event.
+Happiness 1 of 2.
+Archimage
+Improve special skill
+\rImprove special skill
+Tips: During C.S. League, C.S. League night rounds are closed
+Grade 13
+Voucher
+Voucher
+Appearance
+[e6ecee]ATK +3355[-] \n[e6ecee]ATK +3355[-]   \n[e6ecee]DEF +35[-]\n[e6ecee]DEF +35[-]\n[e6ecee]DEF +35[-]
+Dragon Era Server 134
+\rCamp List

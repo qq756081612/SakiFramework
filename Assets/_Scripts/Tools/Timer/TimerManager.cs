@@ -59,7 +59,7 @@ public class TimerManager
         {
             if (!item.Value.Update(deltaTime))
             {
-                //removeList.Add(item.Key);
+                removeList.Add(item.Key);
             }
         }
 
